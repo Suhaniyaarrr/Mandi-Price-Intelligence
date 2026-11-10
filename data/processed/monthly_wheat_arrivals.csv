@@ -1,0 +1,2371 @@
+State,District,month,arrival_quantity_tonnes,_arrival_present
+bihar,madhubani,2025-07,16.0,True
+bihar,madhubani,2025-08,8.0,True
+bihar,muzaffarpur,2025-01,2370.0,True
+bihar,muzaffarpur,2025-02,3108.0,True
+bihar,muzaffarpur,2025-03,4008.0,True
+bihar,muzaffarpur,2025-04,5810.0,True
+bihar,muzaffarpur,2025-05,7890.0,True
+bihar,muzaffarpur,2025-06,6130.0,True
+bihar,muzaffarpur,2025-07,5100.0,True
+bihar,muzaffarpur,2025-08,4850.0,True
+bihar,muzaffarpur,2025-09,4590.0,True
+bihar,muzaffarpur,2025-10,2100.0,True
+bihar,purnia,2025-04,495.0,True
+bihar,purnia,2025-05,239.01999999999998,True
+bihar,purnia,2025-06,343.0,True
+bihar,purnia,2025-07,145.0,True
+bihar,samastipur,2025-01,7.5,True
+bihar,samastipur,2025-02,12.100000000000001,True
+bihar,sheikhpura,2025-01,147.0,True
+chhattisgarh,bastar,2025-03,0.5,True
+chhattisgarh,bastar,2025-04,8.9,True
+chhattisgarh,bastar,2025-05,7.3,True
+chhattisgarh,bastar,2025-08,54.2,True
+chhattisgarh,bilaspur,2025-01,14.0,True
+chhattisgarh,bilaspur,2025-02,94.10000000000001,True
+chhattisgarh,bilaspur,2025-03,2255.0,True
+chhattisgarh,bilaspur,2025-04,2242.3,True
+chhattisgarh,bilaspur,2025-05,476.1,True
+chhattisgarh,bilaspur,2025-06,120.9,True
+chhattisgarh,bilaspur,2025-07,69.30000000000001,True
+chhattisgarh,bilaspur,2025-08,44.8,True
+chhattisgarh,bilaspur,2025-09,972.3999999999999,True
+chhattisgarh,bilaspur,2025-10,753.8,True
+chhattisgarh,dhamtari,2025-01,0.6,True
+chhattisgarh,dhamtari,2025-04,3513.9,True
+chhattisgarh,dhamtari,2025-05,6934.6,True
+chhattisgarh,dhamtari,2025-06,2035.8,True
+chhattisgarh,dhamtari,2025-09,3425.6000000000004,True
+chhattisgarh,dhamtari,2025-10,2046.9,True
+chhattisgarh,durg,2025-02,548.8,True
+chhattisgarh,durg,2025-03,3639.3499999999995,True
+chhattisgarh,durg,2025-04,4854.45,True
+chhattisgarh,durg,2025-05,1141.1,True
+chhattisgarh,durg,2025-06,270.2,True
+chhattisgarh,durg,2025-07,425.19,True
+chhattisgarh,durg,2025-08,59.7,True
+chhattisgarh,durg,2025-09,180.5,True
+chhattisgarh,janjgir - champa,2025-01,50.0,True
+chhattisgarh,janjgir - champa,2025-04,10.0,True
+chhattisgarh,jashpur,2025-01,20.0,True
+chhattisgarh,jashpur,2025-02,10.0,True
+chhattisgarh,jashpur,2025-03,23.0,True
+chhattisgarh,jashpur,2025-04,11.0,True
+chhattisgarh,jashpur,2025-05,23.0,True
+chhattisgarh,jashpur,2025-06,8.0,True
+chhattisgarh,jashpur,2025-07,9.0,True
+chhattisgarh,jashpur,2025-08,5.0,True
+chhattisgarh,jashpur,2025-09,13.4,True
+chhattisgarh,jashpur,2025-10,8.0,True
+chhattisgarh,kabeerdham,2025-01,20.2,True
+chhattisgarh,kabeerdham,2025-02,33.8,True
+chhattisgarh,kabeerdham,2025-03,202.89999999999998,True
+chhattisgarh,kabeerdham,2025-04,477.59999999999997,True
+chhattisgarh,kabeerdham,2025-05,207.8,True
+chhattisgarh,kabeerdham,2025-06,121.8,True
+chhattisgarh,kabeerdham,2025-07,41.3,True
+chhattisgarh,kabeerdham,2025-08,60.7,True
+chhattisgarh,kabeerdham,2025-09,94.7,True
+chhattisgarh,kabeerdham,2025-10,19.6,True
+chhattisgarh,korba,2025-01,462.5,True
+chhattisgarh,korba,2025-02,182.9,True
+chhattisgarh,korba,2025-03,324.5,True
+chhattisgarh,korba,2025-04,103.0,True
+chhattisgarh,korba,2025-05,332.0,True
+chhattisgarh,korba,2025-06,219.3,True
+chhattisgarh,korba,2025-07,149.5,True
+chhattisgarh,korba,2025-09,160.6,True
+chhattisgarh,korba,2025-10,70.0,True
+chhattisgarh,koriya,2025-01,24.0,True
+chhattisgarh,koriya,2025-02,22.9,True
+chhattisgarh,koriya,2025-03,48.2,True
+chhattisgarh,koriya,2025-04,109.0,True
+chhattisgarh,koriya,2025-05,85.8,True
+chhattisgarh,koriya,2025-06,27.0,True
+chhattisgarh,koriya,2025-07,24.0,True
+chhattisgarh,koriya,2025-08,45.5,True
+chhattisgarh,koriya,2025-09,33.1,True
+chhattisgarh,koriya,2025-10,37.0,True
+chhattisgarh,mahasamund,2025-10,2.5,True
+chhattisgarh,narayanpur,2025-02,5.0,True
+chhattisgarh,raigarh,2025-01,7.5,True
+chhattisgarh,raigarh,2025-02,104.30000000000001,True
+chhattisgarh,raigarh,2025-03,194.0,True
+chhattisgarh,raigarh,2025-04,93.3,True
+chhattisgarh,raigarh,2025-05,79.5,True
+chhattisgarh,raigarh,2025-06,100.8,True
+chhattisgarh,raigarh,2025-07,16.5,True
+chhattisgarh,raigarh,2025-08,7.300000000000001,True
+chhattisgarh,raigarh,2025-09,13.200000000000001,True
+chhattisgarh,raigarh,2025-10,19.0,True
+chhattisgarh,raipur,2025-01,738.4,True
+chhattisgarh,raipur,2025-02,24584.699999999997,True
+chhattisgarh,raipur,2025-03,24613.0,True
+chhattisgarh,raipur,2025-04,1583.5,True
+chhattisgarh,raipur,2025-05,902.3,True
+chhattisgarh,raipur,2025-06,510.8,True
+chhattisgarh,raipur,2025-07,36795.5,True
+chhattisgarh,raipur,2025-08,85.89999999999999,True
+chhattisgarh,raipur,2025-09,588.9,True
+chhattisgarh,raipur,2025-10,20717.100000000002,True
+chhattisgarh,rajnandgaon,2025-01,5046.099999999999,True
+chhattisgarh,rajnandgaon,2025-02,1187.6000000000001,True
+chhattisgarh,rajnandgaon,2025-03,1514.8999999999999,True
+chhattisgarh,rajnandgaon,2025-04,867.6,True
+chhattisgarh,rajnandgaon,2025-05,4070.7999999999997,True
+chhattisgarh,rajnandgaon,2025-06,152.9,True
+chhattisgarh,rajnandgaon,2025-07,79.89999999999999,True
+chhattisgarh,rajnandgaon,2025-08,51.1,True
+chhattisgarh,rajnandgaon,2025-09,44.2,True
+chhattisgarh,rajnandgaon,2025-10,28.9,True
+chhattisgarh,surguja,2025-01,126.0,True
+chhattisgarh,surguja,2025-02,212.0,True
+chhattisgarh,surguja,2025-03,447.8,True
+chhattisgarh,surguja,2025-04,453.6,True
+chhattisgarh,surguja,2025-05,1841.6999999999998,True
+chhattisgarh,surguja,2025-06,707.4,True
+chhattisgarh,surguja,2025-07,581.0000000000001,True
+chhattisgarh,surguja,2025-08,50.2,True
+chhattisgarh,surguja,2025-09,239.7,True
+chhattisgarh,surguja,2025-10,126.0,True
+chhattisgarh,uttar bastar kanker,2025-04,5.0,True
+chhattisgarh,uttar bastar kanker,2025-08,8.3,True
+chhattisgarh,uttar bastar kanker,2025-09,1.4,True
+gujarat,ahmedabad,2025-01,664.8999999999999,True
+gujarat,ahmedabad,2025-02,353.6,True
+gujarat,ahmedabad,2025-03,18968.0,True
+gujarat,ahmedabad,2025-04,20721.0,True
+gujarat,ahmedabad,2025-05,5073.0,True
+gujarat,ahmedabad,2025-06,2100.0,True
+gujarat,ahmedabad,2025-07,637.0,True
+gujarat,ahmedabad,2025-08,624.5,True
+gujarat,ahmedabad,2025-09,797.1,True
+gujarat,ahmedabad,2025-10,610.0,True
+gujarat,amreli,2025-01,705.8799999999999,True
+gujarat,amreli,2025-02,842.6400000000001,True
+gujarat,amreli,2025-03,4489.290000000001,True
+gujarat,amreli,2025-04,6570.609999999999,True
+gujarat,amreli,2025-05,2407.4599999999996,True
+gujarat,amreli,2025-06,1399.0299999999997,True
+gujarat,amreli,2025-07,864.25,True
+gujarat,amreli,2025-08,581.7299999999999,True
+gujarat,amreli,2025-09,827.0800000000002,True
+gujarat,amreli,2025-10,348.80999999999995,True
+gujarat,anand,2025-01,248.2,True
+gujarat,anand,2025-02,200.99999999999997,True
+gujarat,anand,2025-03,4275.21,True
+gujarat,anand,2025-04,9559.09,True
+gujarat,anand,2025-05,2534.2299999999996,True
+gujarat,anand,2025-06,338.0,True
+gujarat,anand,2025-07,255.5,True
+gujarat,anand,2025-08,77.32,True
+gujarat,anand,2025-09,87.1,True
+gujarat,anand,2025-10,63.599999999999994,True
+gujarat,banas kantha,2025-01,453.80000000000007,True
+gujarat,banas kantha,2025-02,384.74,True
+gujarat,banas kantha,2025-03,1351.3999999999996,True
+gujarat,banas kantha,2025-04,5765.599999999999,True
+gujarat,banas kantha,2025-05,1839.8500000000004,True
+gujarat,banas kantha,2025-06,878.2699999999998,True
+gujarat,banas kantha,2025-07,607.4499999999999,True
+gujarat,banas kantha,2025-08,688.6499999999999,True
+gujarat,banas kantha,2025-09,704.8499999999999,True
+gujarat,banas kantha,2025-10,306.4,True
+gujarat,bharuch,2025-01,2.6999999999999997,True
+gujarat,bharuch,2025-02,2.5,True
+gujarat,bharuch,2025-03,2.8,True
+gujarat,bharuch,2025-04,3.0,True
+gujarat,bharuch,2025-05,3.0999999999999996,True
+gujarat,bharuch,2025-06,2.9999999999999996,True
+gujarat,bharuch,2025-07,3.0999999999999996,True
+gujarat,bharuch,2025-08,3.0999999999999996,True
+gujarat,bharuch,2025-09,2.8,True
+gujarat,bharuch,2025-10,2.3,True
+gujarat,bhavnagar,2025-01,639.1500000000001,True
+gujarat,bhavnagar,2025-02,1830.3200000000002,True
+gujarat,bhavnagar,2025-03,11359.32,True
+gujarat,bhavnagar,2025-04,10481.44,True
+gujarat,bhavnagar,2025-05,3565.36,True
+gujarat,bhavnagar,2025-06,2293.4,True
+gujarat,bhavnagar,2025-07,1838.9099999999996,True
+gujarat,bhavnagar,2025-08,1565.67,True
+gujarat,bhavnagar,2025-09,1561.16,True
+gujarat,bhavnagar,2025-10,806.9000000000002,True
+gujarat,dohad,2025-01,2297.7,True
+gujarat,dohad,2025-02,2795.0699999999997,True
+gujarat,dohad,2025-03,11939.5,True
+gujarat,dohad,2025-04,13014.400000000001,True
+gujarat,dohad,2025-05,6764.15,True
+gujarat,dohad,2025-06,5462.7,True
+gujarat,dohad,2025-07,4817.879999999999,True
+gujarat,dohad,2025-08,3522.9000000000005,True
+gujarat,dohad,2025-09,3644.2,True
+gujarat,dohad,2025-10,3948.0199999999995,True
+gujarat,gandhinagar,2025-01,163.3,True
+gujarat,gandhinagar,2025-02,91.5,True
+gujarat,gandhinagar,2025-03,2200.9,True
+gujarat,gandhinagar,2025-04,2792.8900000000003,True
+gujarat,gandhinagar,2025-05,744.2999999999998,True
+gujarat,gandhinagar,2025-06,353.16999999999996,True
+gujarat,gandhinagar,2025-07,182.08999999999995,True
+gujarat,gandhinagar,2025-08,300.59,True
+gujarat,gandhinagar,2025-09,327.09999999999997,True
+gujarat,gandhinagar,2025-10,209.29999999999995,True
+gujarat,jamnagar,2025-01,357.0,True
+gujarat,jamnagar,2025-02,420.9,True
+gujarat,jamnagar,2025-03,8754.5,True
+gujarat,jamnagar,2025-04,11622.099999999999,True
+gujarat,jamnagar,2025-05,4826.300000000001,True
+gujarat,jamnagar,2025-06,5237.5999999999985,True
+gujarat,jamnagar,2025-07,3447.8999999999996,True
+gujarat,jamnagar,2025-08,1589.9999999999998,True
+gujarat,jamnagar,2025-09,2172.6000000000004,True
+gujarat,jamnagar,2025-10,1135.5,True
+gujarat,junagadh,2025-01,2459.6400000000003,True
+gujarat,junagadh,2025-02,12426.25,True
+gujarat,junagadh,2025-03,35404.46,True
+gujarat,junagadh,2025-04,10894.86,True
+gujarat,junagadh,2025-05,2760.34,True
+gujarat,junagadh,2025-06,1485.44,True
+gujarat,junagadh,2025-07,1635.3599999999997,True
+gujarat,junagadh,2025-08,812.3,True
+gujarat,junagadh,2025-09,1292.5600000000002,True
+gujarat,junagadh,2025-10,887.5,True
+gujarat,kachchh,2025-01,0.61,True
+gujarat,kachchh,2025-03,36.2,True
+gujarat,kachchh,2025-04,24.800000000000004,True
+gujarat,kachchh,2025-05,18.700000000000003,True
+gujarat,kachchh,2025-06,12.4,True
+gujarat,kachchh,2025-07,6.0,True
+gujarat,kachchh,2025-08,2.6,True
+gujarat,kachchh,2025-09,1.9000000000000001,True
+gujarat,kachchh,2025-10,1.4,True
+gujarat,kheda,2025-01,238.0,True
+gujarat,kheda,2025-02,185.0,True
+gujarat,kheda,2025-03,296.59,True
+gujarat,kheda,2025-04,843.03,True
+gujarat,kheda,2025-05,509.35,True
+gujarat,kheda,2025-06,367.0,True
+gujarat,kheda,2025-07,338.0,True
+gujarat,kheda,2025-08,226.0,True
+gujarat,kheda,2025-09,318.0,True
+gujarat,kheda,2025-10,192.0,True
+gujarat,mahesana,2025-01,1490.4,True
+gujarat,mahesana,2025-02,1080.6999999999998,True
+gujarat,mahesana,2025-03,6606.2,True
+gujarat,mahesana,2025-04,11783.0,True
+gujarat,mahesana,2025-05,5773.4,True
+gujarat,mahesana,2025-06,3571.7000000000003,True
+gujarat,mahesana,2025-07,2905.9999999999995,True
+gujarat,mahesana,2025-08,2241.9000000000005,True
+gujarat,mahesana,2025-09,1999.6,True
+gujarat,mahesana,2025-10,1303.0,True
+gujarat,panch mahals,2025-01,2.5,True
+gujarat,panch mahals,2025-02,8.2,True
+gujarat,panch mahals,2025-03,49.49999999999999,True
+gujarat,panch mahals,2025-04,166.0,True
+gujarat,panch mahals,2025-05,73.8,True
+gujarat,panch mahals,2025-06,65.8,True
+gujarat,panch mahals,2025-07,47.6,True
+gujarat,panch mahals,2025-08,23.4,True
+gujarat,panch mahals,2025-09,16.3,True
+gujarat,panch mahals,2025-10,10.8,True
+gujarat,patan,2025-01,1026.28,True
+gujarat,patan,2025-02,779.1800000000001,True
+gujarat,patan,2025-03,801.15,True
+gujarat,patan,2025-04,6298.699999999999,True
+gujarat,patan,2025-05,3787.5299999999997,True
+gujarat,patan,2025-06,2863.9500000000003,True
+gujarat,patan,2025-07,1714.8799999999999,True
+gujarat,patan,2025-08,1116.53,True
+gujarat,patan,2025-09,1343.4700000000003,True
+gujarat,patan,2025-10,951.38,True
+gujarat,porbandar,2025-01,49.2,True
+gujarat,porbandar,2025-02,40.8,True
+gujarat,porbandar,2025-03,148.8,True
+gujarat,porbandar,2025-04,404.4,True
+gujarat,porbandar,2025-05,255.9,True
+gujarat,porbandar,2025-06,120.0,True
+gujarat,porbandar,2025-07,51.3,True
+gujarat,porbandar,2025-08,44.4,True
+gujarat,porbandar,2025-09,55.39999999999999,True
+gujarat,porbandar,2025-10,20.97,True
+gujarat,rajkot,2025-01,5213.379999999999,True
+gujarat,rajkot,2025-02,10712.949999999999,True
+gujarat,rajkot,2025-03,60290.51999999999,True
+gujarat,rajkot,2025-04,57060.32000000001,True
+gujarat,rajkot,2025-05,22838.100000000002,True
+gujarat,rajkot,2025-06,13894.5,True
+gujarat,rajkot,2025-07,11752.16,True
+gujarat,rajkot,2025-08,6403.840000000001,True
+gujarat,rajkot,2025-09,9310.800000000001,True
+gujarat,rajkot,2025-10,5792.139999999999,True
+gujarat,sabar kantha,2025-01,1283.48,True
+gujarat,sabar kantha,2025-02,1874.4500000000003,True
+gujarat,sabar kantha,2025-03,27547.31,True
+gujarat,sabar kantha,2025-04,33559.50000000001,True
+gujarat,sabar kantha,2025-05,8615.710000000001,True
+gujarat,sabar kantha,2025-06,3072.08,True
+gujarat,sabar kantha,2025-07,1712.35,True
+gujarat,sabar kantha,2025-08,1633.0000000000005,True
+gujarat,sabar kantha,2025-09,2349.38,True
+gujarat,sabar kantha,2025-10,1635.44,True
+gujarat,surat,2025-02,1.8,True
+gujarat,surat,2025-03,127.20000000000002,True
+gujarat,surat,2025-04,158.29999999999998,True
+gujarat,surat,2025-05,27.1,True
+gujarat,surat,2025-06,26.1,True
+gujarat,surat,2025-07,21.9,True
+gujarat,surat,2025-08,12.3,True
+gujarat,surat,2025-09,8.799999999999999,True
+gujarat,surat,2025-10,2.1,True
+gujarat,surendranagar,2025-01,450.22999999999996,True
+gujarat,surendranagar,2025-02,339.12,True
+gujarat,surendranagar,2025-03,343.40000000000003,True
+gujarat,surendranagar,2025-04,1230.5,True
+gujarat,surendranagar,2025-05,790.03,True
+gujarat,surendranagar,2025-06,502.0,True
+gujarat,surendranagar,2025-07,260.35,True
+gujarat,surendranagar,2025-08,218.76,True
+gujarat,surendranagar,2025-09,465.09999999999997,True
+gujarat,surendranagar,2025-10,627.5,True
+gujarat,vadodara,2025-01,0.2,True
+gujarat,vadodara,2025-02,7.6,True
+gujarat,vadodara,2025-03,45.59,True
+gujarat,vadodara,2025-04,33.7,True
+gujarat,vadodara,2025-05,15.200000000000001,True
+gujarat,vadodara,2025-06,1.27,True
+gujarat,vadodara,2025-07,57.650000000000006,True
+haryana,ambala,2025-04,173802.0,True
+haryana,ambala,2025-05,3256.7,True
+haryana,bhiwani,2025-04,12755.900000000001,True
+haryana,bhiwani,2025-05,641.0,True
+haryana,faridabad,2025-04,6456.1,True
+haryana,faridabad,2025-05,35.2,True
+haryana,fatehabad,2025-04,198056.99999999997,True
+haryana,fatehabad,2025-05,17989.3,True
+haryana,gurgaon,2025-04,8854.5,True
+haryana,hisar,2025-03,40.0,True
+haryana,hisar,2025-04,357986.74999999994,True
+haryana,hisar,2025-05,38255.29999999999,True
+haryana,hisar,2025-06,36.0,True
+haryana,jhajjar,2025-04,4466.9,True
+haryana,jind,2025-01,20.0,True
+haryana,jind,2025-04,625813.2999999999,True
+haryana,jind,2025-05,30859.0,True
+haryana,kaithal,2025-04,335595.9,True
+haryana,kaithal,2025-05,10767.4,True
+haryana,karnal,2025-04,1092769.17,True
+haryana,karnal,2025-05,15780.5,True
+haryana,kurukshetra,2025-04,229979.37,True
+haryana,kurukshetra,2025-05,15672.4,True
+haryana,mahendragarh,2025-01,2.5,True
+haryana,mahendragarh,2025-02,20.0,True
+haryana,mahendragarh,2025-03,14.8,True
+haryana,mahendragarh,2025-04,8517.150000000001,True
+haryana,mahendragarh,2025-05,32.6,True
+haryana,mahendragarh,2025-06,2.5,True
+haryana,mahendragarh,2025-07,5.0,True
+haryana,mahendragarh,2025-08,10.3,True
+haryana,mahendragarh,2025-09,14.299999999999999,True
+haryana,mewat,2025-04,56129.0,True
+haryana,palwal,2025-03,52.5,True
+haryana,palwal,2025-04,79668.59999999999,True
+haryana,palwal,2025-05,502.70000000000005,True
+haryana,panchkula,2025-04,19418.6,True
+haryana,panchkula,2025-05,385.70000000000005,True
+haryana,panipat,2025-04,151438.6,True
+haryana,panipat,2025-05,2150.4,True
+haryana,rewari,2025-03,8.3,True
+haryana,rewari,2025-04,12113.3,True
+haryana,rewari,2025-05,43.5,True
+haryana,rewari,2025-06,0.5,True
+haryana,rewari,2025-09,8.5,True
+haryana,rohtak,2025-04,124823.0,True
+haryana,rohtak,2025-05,130.0,True
+haryana,sirsa,2025-04,436519.2,True
+haryana,sirsa,2025-05,22860.5,True
+haryana,sirsa,2025-06,24.900000000000002,True
+haryana,sirsa,2025-08,1.0,True
+haryana,sonipat,2025-04,53775.5,True
+haryana,sonipat,2025-05,1194.5,True
+haryana,yamunanagar,2025-04,475373.84,True
+haryana,yamunanagar,2025-05,80311.5,True
+karnataka,bagalkot,2025-04,5.0,True
+karnataka,bangalore,2025-01,2073.0,True
+karnataka,bangalore,2025-02,759.0,True
+karnataka,bangalore rural,2025-01,80.0,True
+karnataka,bangalore rural,2025-02,44.0,True
+karnataka,belgaum,2025-01,31.0,True
+karnataka,belgaum,2025-02,4.0,True
+karnataka,belgaum,2025-03,141.0,True
+karnataka,belgaum,2025-04,85.0,True
+karnataka,belgaum,2025-05,54.0,True
+karnataka,belgaum,2025-06,43.0,True
+karnataka,belgaum,2025-07,53.0,True
+karnataka,belgaum,2025-08,13.0,True
+karnataka,belgaum,2025-09,9.81,True
+karnataka,belgaum,2025-10,0.06,True
+karnataka,bellary,2025-09,0.66,True
+karnataka,bellary,2025-10,2.46,True
+karnataka,bidar,2025-01,17.0,True
+karnataka,bidar,2025-02,18.0,True
+karnataka,bidar,2025-03,15.0,True
+karnataka,bidar,2025-07,1.0,True
+karnataka,bijapur,2025-01,59.0,True
+karnataka,bijapur,2025-02,29.0,True
+karnataka,bijapur,2025-07,13.0,True
+karnataka,chikmagalur,2025-01,75.0,True
+karnataka,chikmagalur,2025-02,42.0,True
+karnataka,chikmagalur,2025-06,8.0,True
+karnataka,chikmagalur,2025-07,24.0,True
+karnataka,chikmagalur,2025-08,23.0,True
+karnataka,chikmagalur,2025-09,0.56,True
+karnataka,chikmagalur,2025-10,1.6600000000000001,True
+karnataka,chitradurga,2025-01,1.0,True
+karnataka,chitradurga,2025-08,3.0,True
+karnataka,davanagere,2025-01,29.0,True
+karnataka,davanagere,2025-02,32.0,True
+karnataka,davanagere,2025-03,11.0,True
+karnataka,davanagere,2025-04,6.0,True
+karnataka,davanagere,2025-05,6.0,True
+karnataka,davanagere,2025-06,42.0,True
+karnataka,davanagere,2025-07,9.0,True
+karnataka,davanagere,2025-08,80.0,True
+karnataka,davanagere,2025-09,19.39,True
+karnataka,dharwad,2025-01,10.0,True
+karnataka,dharwad,2025-02,13.0,True
+karnataka,dharwad,2025-04,6.0,True
+karnataka,dharwad,2025-05,10.0,True
+karnataka,dharwad,2025-06,8.0,True
+karnataka,dharwad,2025-07,4.0,True
+karnataka,dharwad,2025-08,5.0,True
+karnataka,dharwad,2025-09,22.27,True
+karnataka,dharwad,2025-10,1.4500000000000002,True
+karnataka,gadag,2025-01,8.0,True
+karnataka,gadag,2025-02,95.0,True
+karnataka,gadag,2025-03,9.0,True
+karnataka,hassan,2025-01,17.0,True
+karnataka,hassan,2025-02,7.0,True
+karnataka,hassan,2025-03,4.0,True
+karnataka,hassan,2025-04,317.0,True
+karnataka,hassan,2025-06,3.0,True
+karnataka,hassan,2025-07,37.0,True
+karnataka,hassan,2025-08,7.0,True
+karnataka,hassan,2025-09,3.0,True
+karnataka,haveri,2025-03,3.0,True
+karnataka,haveri,2025-04,36.0,True
+karnataka,haveri,2025-05,58.0,True
+karnataka,haveri,2025-06,87.0,True
+karnataka,kolar,2025-01,776.0,True
+karnataka,kolar,2025-05,5100.0,True
+karnataka,mysore,2025-01,20.0,True
+karnataka,mysore,2025-02,20.0,True
+karnataka,mysore,2025-03,15.0,True
+karnataka,mysore,2025-04,22.0,True
+karnataka,mysore,2025-05,23.0,True
+karnataka,mysore,2025-06,17.0,True
+karnataka,mysore,2025-07,31.0,True
+karnataka,mysore,2025-09,18.84,True
+karnataka,mysore,2025-10,3.01,True
+karnataka,shimoga,2025-01,29.0,True
+karnataka,shimoga,2025-02,22.0,True
+karnataka,shimoga,2025-03,26.0,True
+karnataka,shimoga,2025-04,876.0,True
+karnataka,shimoga,2025-05,26.0,True
+karnataka,shimoga,2025-06,19.0,True
+karnataka,shimoga,2025-07,23.0,True
+karnataka,shimoga,2025-08,26.0,True
+karnataka,shimoga,2025-09,20.929999999999996,True
+karnataka,shimoga,2025-10,2.52,True
+karnataka,tumkur,2025-01,3525.0,True
+karnataka,tumkur,2025-04,5.0,True
+karnataka,tumkur,2025-05,21.0,True
+karnataka,tumkur,2025-06,4.0,True
+karnataka,tumkur,2025-07,26.0,True
+madhya pradesh,alirajpur,2025-01,979.3100000000001,True
+madhya pradesh,alirajpur,2025-02,808.98,True
+madhya pradesh,alirajpur,2025-03,4894.01,True
+madhya pradesh,alirajpur,2025-04,6803.900000000001,True
+madhya pradesh,alirajpur,2025-05,4121.09,True
+madhya pradesh,alirajpur,2025-06,3732.2,True
+madhya pradesh,alirajpur,2025-07,2164.24,True
+madhya pradesh,alirajpur,2025-08,1408.96,True
+madhya pradesh,alirajpur,2025-09,1626.65,True
+madhya pradesh,alirajpur,2025-10,1550.12,True
+madhya pradesh,anuppur,2025-01,178.99,True
+madhya pradesh,anuppur,2025-02,138.7,True
+madhya pradesh,anuppur,2025-03,47.64,True
+madhya pradesh,anuppur,2025-04,121.31,True
+madhya pradesh,anuppur,2025-05,219.20000000000002,True
+madhya pradesh,anuppur,2025-06,168.22,True
+madhya pradesh,anuppur,2025-07,164.11,True
+madhya pradesh,anuppur,2025-08,144.3,True
+madhya pradesh,anuppur,2025-09,170.3,True
+madhya pradesh,anuppur,2025-10,151.44,True
+madhya pradesh,ashoknagar,2025-01,2497.0699999999997,True
+madhya pradesh,ashoknagar,2025-02,2590.65,True
+madhya pradesh,ashoknagar,2025-03,26028.79,True
+madhya pradesh,ashoknagar,2025-04,112799.81999999999,True
+madhya pradesh,ashoknagar,2025-05,83490.56,True
+madhya pradesh,ashoknagar,2025-06,25091.249999999996,True
+madhya pradesh,ashoknagar,2025-07,12106.529999999999,True
+madhya pradesh,ashoknagar,2025-08,12994.470000000001,True
+madhya pradesh,ashoknagar,2025-09,14947.740000000002,True
+madhya pradesh,ashoknagar,2025-10,7648.22,True
+madhya pradesh,balaghat,2025-01,514.9000000000001,True
+madhya pradesh,balaghat,2025-02,301.07000000000005,True
+madhya pradesh,balaghat,2025-03,175.39,True
+madhya pradesh,balaghat,2025-04,326.28999999999996,True
+madhya pradesh,balaghat,2025-05,376.2,True
+madhya pradesh,balaghat,2025-06,305.61,True
+madhya pradesh,balaghat,2025-07,213.69,True
+madhya pradesh,balaghat,2025-08,207.70999999999998,True
+madhya pradesh,balaghat,2025-09,85.8,True
+madhya pradesh,balaghat,2025-10,224.76,True
+madhya pradesh,barwani,2025-01,487.3600000000001,True
+madhya pradesh,barwani,2025-02,1942.2299999999998,True
+madhya pradesh,barwani,2025-03,5636.25,True
+madhya pradesh,barwani,2025-04,2518.1099999999997,True
+madhya pradesh,barwani,2025-05,1071.48,True
+madhya pradesh,barwani,2025-06,946.47,True
+madhya pradesh,barwani,2025-07,755.3,True
+madhya pradesh,barwani,2025-08,378.93000000000006,True
+madhya pradesh,barwani,2025-09,229.59000000000003,True
+madhya pradesh,barwani,2025-10,587.4300000000001,True
+madhya pradesh,betul,2025-01,3880.7999999999997,True
+madhya pradesh,betul,2025-02,5874.38,True
+madhya pradesh,betul,2025-03,11984.28,True
+madhya pradesh,betul,2025-04,11853.9,True
+madhya pradesh,betul,2025-05,8676.320000000002,True
+madhya pradesh,betul,2025-06,5988.82,True
+madhya pradesh,betul,2025-07,5907.07,True
+madhya pradesh,betul,2025-08,4312.55,True
+madhya pradesh,betul,2025-09,5803.75,True
+madhya pradesh,betul,2025-10,5137.94,True
+madhya pradesh,bhind,2025-01,2009.68,True
+madhya pradesh,bhind,2025-02,1282.85,True
+madhya pradesh,bhind,2025-03,2760.7799999999997,True
+madhya pradesh,bhind,2025-04,72047.36999999998,True
+madhya pradesh,bhind,2025-05,39196.7,True
+madhya pradesh,bhind,2025-06,18565.39,True
+madhya pradesh,bhind,2025-07,10757.46,True
+madhya pradesh,bhind,2025-08,10412.800000000001,True
+madhya pradesh,bhind,2025-09,10015.91,True
+madhya pradesh,bhind,2025-10,5416.1,True
+madhya pradesh,bhopal,2025-01,3090.5,True
+madhya pradesh,bhopal,2025-02,2690.4300000000003,True
+madhya pradesh,bhopal,2025-03,27307.11,True
+madhya pradesh,bhopal,2025-04,21416.08,True
+madhya pradesh,bhopal,2025-05,15890.64,True
+madhya pradesh,bhopal,2025-06,8699.16,True
+madhya pradesh,bhopal,2025-07,4669.650000000001,True
+madhya pradesh,bhopal,2025-08,4536.07,True
+madhya pradesh,bhopal,2025-09,5514.2300000000005,True
+madhya pradesh,bhopal,2025-10,2570.8500000000004,True
+madhya pradesh,burhanpur,2025-01,20.339999999999996,True
+madhya pradesh,burhanpur,2025-02,118.03999999999999,True
+madhya pradesh,burhanpur,2025-03,733.85,True
+madhya pradesh,burhanpur,2025-04,245.74,True
+madhya pradesh,burhanpur,2025-05,166.08,True
+madhya pradesh,burhanpur,2025-06,329.45,True
+madhya pradesh,burhanpur,2025-07,193.40999999999997,True
+madhya pradesh,burhanpur,2025-08,194.33999999999997,True
+madhya pradesh,burhanpur,2025-09,190.54000000000002,True
+madhya pradesh,burhanpur,2025-10,322.86,True
+madhya pradesh,chhatarpur,2025-01,16368.41,True
+madhya pradesh,chhatarpur,2025-02,12096.79,True
+madhya pradesh,chhatarpur,2025-03,28113.29,True
+madhya pradesh,chhatarpur,2025-04,92171.35,True
+madhya pradesh,chhatarpur,2025-05,46451.40999999999,True
+madhya pradesh,chhatarpur,2025-06,30626.929999999993,True
+madhya pradesh,chhatarpur,2025-07,23957.1,True
+madhya pradesh,chhatarpur,2025-08,24428.320000000007,True
+madhya pradesh,chhatarpur,2025-09,32141.129999999997,True
+madhya pradesh,chhatarpur,2025-10,18020.68,True
+madhya pradesh,chhindwara,2025-01,2755.83,True
+madhya pradesh,chhindwara,2025-02,5870.41,True
+madhya pradesh,chhindwara,2025-03,44176.16,True
+madhya pradesh,chhindwara,2025-04,85490.77999999998,True
+madhya pradesh,chhindwara,2025-05,137993.02,True
+madhya pradesh,chhindwara,2025-06,15309.84,True
+madhya pradesh,chhindwara,2025-07,35150.57,True
+madhya pradesh,chhindwara,2025-08,17329.25,True
+madhya pradesh,chhindwara,2025-09,19457.590000000004,True
+madhya pradesh,chhindwara,2025-10,10173.91,True
+madhya pradesh,damoh,2025-01,1724.9099999999999,True
+madhya pradesh,damoh,2025-02,2035.0200000000004,True
+madhya pradesh,damoh,2025-03,21077.34,True
+madhya pradesh,damoh,2025-04,15496.530000000002,True
+madhya pradesh,damoh,2025-05,7253.790000000001,True
+madhya pradesh,damoh,2025-06,4296.76,True
+madhya pradesh,damoh,2025-07,2627.1000000000004,True
+madhya pradesh,damoh,2025-08,9831.34,True
+madhya pradesh,damoh,2025-09,13039.779999999999,True
+madhya pradesh,damoh,2025-10,10092.070000000002,True
+madhya pradesh,datia,2025-01,2436.92,True
+madhya pradesh,datia,2025-02,2367.64,True
+madhya pradesh,datia,2025-03,5661.66,True
+madhya pradesh,datia,2025-04,98429.15000000001,True
+madhya pradesh,datia,2025-05,60184.45,True
+madhya pradesh,datia,2025-06,22391.449999999997,True
+madhya pradesh,datia,2025-07,16071.179999999998,True
+madhya pradesh,datia,2025-08,14532.679999999997,True
+madhya pradesh,datia,2025-09,13774.41,True
+madhya pradesh,datia,2025-10,9846.68,True
+madhya pradesh,dewas,2025-01,10149.21,True
+madhya pradesh,dewas,2025-02,19575.799999999996,True
+madhya pradesh,dewas,2025-03,126414.75999999998,True
+madhya pradesh,dewas,2025-04,73087.86000000002,True
+madhya pradesh,dewas,2025-05,48266.86,True
+madhya pradesh,dewas,2025-06,31182.770000000008,True
+madhya pradesh,dewas,2025-07,20757.46,True
+madhya pradesh,dewas,2025-08,16905.229999999996,True
+madhya pradesh,dewas,2025-09,16800.22,True
+madhya pradesh,dewas,2025-10,11990.370000000003,True
+madhya pradesh,dhar,2025-01,9326.77,True
+madhya pradesh,dhar,2025-02,23893.32,True
+madhya pradesh,dhar,2025-03,119457.42000000003,True
+madhya pradesh,dhar,2025-04,89626.48000000003,True
+madhya pradesh,dhar,2025-05,50401.53,True
+madhya pradesh,dhar,2025-06,29494.909999999996,True
+madhya pradesh,dhar,2025-07,19429.959999999995,True
+madhya pradesh,dhar,2025-08,19141.290000000008,True
+madhya pradesh,dhar,2025-09,16596.44,True
+madhya pradesh,dhar,2025-10,12773.670000000006,True
+madhya pradesh,dindori,2025-01,497.31,True
+madhya pradesh,dindori,2025-02,439.18,True
+madhya pradesh,dindori,2025-03,330.66999999999996,True
+madhya pradesh,dindori,2025-04,1252.75,True
+madhya pradesh,dindori,2025-05,1640.8500000000001,True
+madhya pradesh,dindori,2025-06,1445.1399999999999,True
+madhya pradesh,dindori,2025-07,967.72,True
+madhya pradesh,dindori,2025-08,640.18,True
+madhya pradesh,dindori,2025-09,483.70000000000005,True
+madhya pradesh,dindori,2025-10,559.6700000000001,True
+madhya pradesh,guna,2025-01,4728.889999999999,True
+madhya pradesh,guna,2025-02,6180.540000000001,True
+madhya pradesh,guna,2025-03,37501.170000000006,True
+madhya pradesh,guna,2025-04,99394.34000000003,True
+madhya pradesh,guna,2025-05,67844.69,True
+madhya pradesh,guna,2025-06,25560.890000000003,True
+madhya pradesh,guna,2025-07,14416.329999999998,True
+madhya pradesh,guna,2025-08,14246.870000000003,True
+madhya pradesh,guna,2025-09,18644.31,True
+madhya pradesh,guna,2025-10,10037.279999999997,True
+madhya pradesh,gwalior,2025-01,1189.17,True
+madhya pradesh,gwalior,2025-02,1130.4099999999999,True
+madhya pradesh,gwalior,2025-03,6825.03,True
+madhya pradesh,gwalior,2025-04,126338.69999999998,True
+madhya pradesh,gwalior,2025-05,66127.69,True
+madhya pradesh,gwalior,2025-06,15060.23,True
+madhya pradesh,gwalior,2025-07,6866.92,True
+madhya pradesh,gwalior,2025-08,5062.93,True
+madhya pradesh,gwalior,2025-09,4679.87,True
+madhya pradesh,gwalior,2025-10,2844.53,True
+madhya pradesh,harda,2025-01,6615.860000000001,True
+madhya pradesh,harda,2025-02,4984.599999999999,True
+madhya pradesh,harda,2025-03,72553.24000000002,True
+madhya pradesh,harda,2025-04,37523.85999999999,True
+madhya pradesh,harda,2025-05,24755.85,True
+madhya pradesh,harda,2025-06,15933.230000000001,True
+madhya pradesh,harda,2025-07,9146.34,True
+madhya pradesh,harda,2025-08,5873.740000000001,True
+madhya pradesh,harda,2025-09,8957.3,True
+madhya pradesh,harda,2025-10,7195.5599999999995,True
+madhya pradesh,hoshangabad,2025-01,16773.859999999997,True
+madhya pradesh,hoshangabad,2025-02,5706.769999999999,True
+madhya pradesh,hoshangabad,2025-03,26777.399999999998,True
+madhya pradesh,hoshangabad,2025-04,78081.94,True
+madhya pradesh,hoshangabad,2025-05,49866.159999999996,True
+madhya pradesh,hoshangabad,2025-06,34832.53,True
+madhya pradesh,hoshangabad,2025-07,13178.48,True
+madhya pradesh,hoshangabad,2025-08,9737.220000000001,True
+madhya pradesh,hoshangabad,2025-09,8903.82,True
+madhya pradesh,hoshangabad,2025-10,12226.399999999998,True
+madhya pradesh,indore,2025-01,5946.33,True
+madhya pradesh,indore,2025-02,6503.16,True
+madhya pradesh,indore,2025-03,85907.78000000001,True
+madhya pradesh,indore,2025-04,51784.380000000005,True
+madhya pradesh,indore,2025-05,25783.260000000002,True
+madhya pradesh,indore,2025-06,12824.630000000001,True
+madhya pradesh,indore,2025-07,10613.33,True
+madhya pradesh,indore,2025-08,11166.090000000002,True
+madhya pradesh,indore,2025-09,11343.710000000003,True
+madhya pradesh,indore,2025-10,5729.95,True
+madhya pradesh,jabalpur,2025-01,8732.08,True
+madhya pradesh,jabalpur,2025-02,4676.2,True
+madhya pradesh,jabalpur,2025-03,28660.96,True
+madhya pradesh,jabalpur,2025-04,76767.65,True
+madhya pradesh,jabalpur,2025-05,45296.76,True
+madhya pradesh,jabalpur,2025-06,20821.870000000003,True
+madhya pradesh,jabalpur,2025-07,17092.260000000002,True
+madhya pradesh,jabalpur,2025-08,18268.71,True
+madhya pradesh,jabalpur,2025-09,19499.980000000003,True
+madhya pradesh,jabalpur,2025-10,16299.410000000003,True
+madhya pradesh,jhabua,2025-01,1081.8700000000001,True
+madhya pradesh,jhabua,2025-02,2591.5099999999998,True
+madhya pradesh,jhabua,2025-03,25894.320000000003,True
+madhya pradesh,jhabua,2025-04,14159.25,True
+madhya pradesh,jhabua,2025-05,6460.92,True
+madhya pradesh,jhabua,2025-06,4197.619999999999,True
+madhya pradesh,jhabua,2025-07,4918.080000000001,True
+madhya pradesh,jhabua,2025-08,3978.7599999999998,True
+madhya pradesh,jhabua,2025-09,3926.900000000001,True
+madhya pradesh,jhabua,2025-10,1915.5,True
+madhya pradesh,katni,2025-01,5332.03,True
+madhya pradesh,katni,2025-02,3027.97,True
+madhya pradesh,katni,2025-03,7974.459999999999,True
+madhya pradesh,katni,2025-04,22919.88,True
+madhya pradesh,katni,2025-05,20274.35,True
+madhya pradesh,katni,2025-06,17552.620000000003,True
+madhya pradesh,katni,2025-07,15358.399999999998,True
+madhya pradesh,katni,2025-08,15352.52,True
+madhya pradesh,katni,2025-09,16639.52,True
+madhya pradesh,katni,2025-10,12941.259999999998,True
+madhya pradesh,khandwa (east nimar),2025-01,5873.359999999999,True
+madhya pradesh,khandwa (east nimar),2025-02,25279.219999999998,True
+madhya pradesh,khandwa (east nimar),2025-03,95863.14,True
+madhya pradesh,khandwa (east nimar),2025-04,21835.71,True
+madhya pradesh,khandwa (east nimar),2025-05,15966.510000000002,True
+madhya pradesh,khandwa (east nimar),2025-06,11219.729999999998,True
+madhya pradesh,khandwa (east nimar),2025-07,7594.17,True
+madhya pradesh,khandwa (east nimar),2025-08,6445.44,True
+madhya pradesh,khandwa (east nimar),2025-09,7266.91,True
+madhya pradesh,khandwa (east nimar),2025-10,4740.28,True
+madhya pradesh,khargone (west nimar),2025-01,5884.980000000001,True
+madhya pradesh,khargone (west nimar),2025-02,9659.920000000002,True
+madhya pradesh,khargone (west nimar),2025-03,58918.06999999999,True
+madhya pradesh,khargone (west nimar),2025-04,26138.89,True
+madhya pradesh,khargone (west nimar),2025-05,21231.879999999997,True
+madhya pradesh,khargone (west nimar),2025-06,16101.980000000001,True
+madhya pradesh,khargone (west nimar),2025-07,12494.560000000001,True
+madhya pradesh,khargone (west nimar),2025-08,10532.899999999998,True
+madhya pradesh,khargone (west nimar),2025-09,11706.79,True
+madhya pradesh,khargone (west nimar),2025-10,5914.610000000001,True
+madhya pradesh,mandla,2025-01,864.5900000000001,True
+madhya pradesh,mandla,2025-02,789.84,True
+madhya pradesh,mandla,2025-03,1813.4900000000002,True
+madhya pradesh,mandla,2025-04,6103.860000000001,True
+madhya pradesh,mandla,2025-05,3545.91,True
+madhya pradesh,mandla,2025-06,2164.17,True
+madhya pradesh,mandla,2025-07,1856.33,True
+madhya pradesh,mandla,2025-08,2356.91,True
+madhya pradesh,mandla,2025-09,1909.7299999999998,True
+madhya pradesh,mandla,2025-10,1986.5300000000002,True
+madhya pradesh,mandsaur,2025-01,3979.3299999999995,True
+madhya pradesh,mandsaur,2025-02,6477.999999999998,True
+madhya pradesh,mandsaur,2025-03,52818.37000000001,True
+madhya pradesh,mandsaur,2025-04,47562.100000000006,True
+madhya pradesh,mandsaur,2025-05,35648.97,True
+madhya pradesh,mandsaur,2025-06,22125.070000000007,True
+madhya pradesh,mandsaur,2025-07,17215.15,True
+madhya pradesh,mandsaur,2025-08,13763.45,True
+madhya pradesh,mandsaur,2025-09,14910.390000000001,True
+madhya pradesh,mandsaur,2025-10,7896.33,True
+madhya pradesh,morena,2025-01,430.52000000000004,True
+madhya pradesh,morena,2025-02,879.6199999999999,True
+madhya pradesh,morena,2025-03,1982.69,True
+madhya pradesh,morena,2025-04,29084.91999999999,True
+madhya pradesh,morena,2025-05,16958.639999999996,True
+madhya pradesh,morena,2025-06,10457.91,True
+madhya pradesh,morena,2025-07,6312.360000000001,True
+madhya pradesh,morena,2025-08,4516.880000000001,True
+madhya pradesh,morena,2025-09,4095.35,True
+madhya pradesh,morena,2025-10,2064.37,True
+madhya pradesh,narsimhapur,2025-01,2717.5700000000006,True
+madhya pradesh,narsimhapur,2025-02,1993.35,True
+madhya pradesh,narsimhapur,2025-03,22167.630000000005,True
+madhya pradesh,narsimhapur,2025-04,50407.579999999994,True
+madhya pradesh,narsimhapur,2025-05,25190.32,True
+madhya pradesh,narsimhapur,2025-06,12430.05,True
+madhya pradesh,narsimhapur,2025-07,7432.950000000001,True
+madhya pradesh,narsimhapur,2025-08,7803.66,True
+madhya pradesh,narsimhapur,2025-09,8276.099999999999,True
+madhya pradesh,narsimhapur,2025-10,8218.82,True
+madhya pradesh,neemuch,2025-01,3685.4600000000005,True
+madhya pradesh,neemuch,2025-02,4609.59,True
+madhya pradesh,neemuch,2025-03,38350.49,True
+madhya pradesh,neemuch,2025-04,29595.300000000003,True
+madhya pradesh,neemuch,2025-05,20431.740000000005,True
+madhya pradesh,neemuch,2025-06,12523.450000000003,True
+madhya pradesh,neemuch,2025-07,13031.39,True
+madhya pradesh,neemuch,2025-08,10412.43,True
+madhya pradesh,neemuch,2025-09,9790.34,True
+madhya pradesh,neemuch,2025-10,5610.75,True
+madhya pradesh,panna,2025-01,1004.2099999999999,True
+madhya pradesh,panna,2025-02,884.6800000000001,True
+madhya pradesh,panna,2025-03,6197.18,True
+madhya pradesh,panna,2025-04,10237.480000000001,True
+madhya pradesh,panna,2025-05,9241.77,True
+madhya pradesh,panna,2025-06,8293.33,True
+madhya pradesh,panna,2025-07,6796.650000000001,True
+madhya pradesh,panna,2025-08,5917.730000000001,True
+madhya pradesh,panna,2025-09,7630.389999999999,True
+madhya pradesh,panna,2025-10,5588.570000000001,True
+madhya pradesh,raisen,2025-01,2203.41,True
+madhya pradesh,raisen,2025-02,1650.44,True
+madhya pradesh,raisen,2025-03,13483.61,True
+madhya pradesh,raisen,2025-04,32976.22,True
+madhya pradesh,raisen,2025-05,15255.96,True
+madhya pradesh,raisen,2025-06,10050.92,True
+madhya pradesh,raisen,2025-07,5282.48,True
+madhya pradesh,raisen,2025-08,5266.679999999999,True
+madhya pradesh,raisen,2025-09,6020.300000000001,True
+madhya pradesh,raisen,2025-10,7004.18,True
+madhya pradesh,rajgarh,2025-01,10458.079999999996,True
+madhya pradesh,rajgarh,2025-02,11378.41,True
+madhya pradesh,rajgarh,2025-03,134468.96999999997,True
+madhya pradesh,rajgarh,2025-04,116647.18,True
+madhya pradesh,rajgarh,2025-05,75478.86000000002,True
+madhya pradesh,rajgarh,2025-06,46770.090000000004,True
+madhya pradesh,rajgarh,2025-07,26611.030000000002,True
+madhya pradesh,rajgarh,2025-08,21835.14,True
+madhya pradesh,rajgarh,2025-09,27905.9,True
+madhya pradesh,rajgarh,2025-10,16644.309999999998,True
+madhya pradesh,ratlam,2025-01,13281.239999999998,True
+madhya pradesh,ratlam,2025-02,25277.85,True
+madhya pradesh,ratlam,2025-03,106315.23000000001,True
+madhya pradesh,ratlam,2025-04,98761.90000000001,True
+madhya pradesh,ratlam,2025-05,65251.15,True
+madhya pradesh,ratlam,2025-06,36842.00000000001,True
+madhya pradesh,ratlam,2025-07,30239.72,True
+madhya pradesh,ratlam,2025-08,22279.13,True
+madhya pradesh,ratlam,2025-09,24861.410000000003,True
+madhya pradesh,ratlam,2025-10,14719.250000000002,True
+madhya pradesh,rewa,2025-01,5010.17,True
+madhya pradesh,rewa,2025-02,3384.96,True
+madhya pradesh,rewa,2025-03,4177.9,True
+madhya pradesh,rewa,2025-04,9838.71,True
+madhya pradesh,rewa,2025-05,14420.289999999997,True
+madhya pradesh,rewa,2025-06,9313.480000000003,True
+madhya pradesh,rewa,2025-07,8546.0,True
+madhya pradesh,rewa,2025-08,12430.419999999998,True
+madhya pradesh,rewa,2025-09,14304.219999999998,True
+madhya pradesh,rewa,2025-10,9280.2,True
+madhya pradesh,sagar,2025-01,11822.249999999998,True
+madhya pradesh,sagar,2025-02,7340.809999999999,True
+madhya pradesh,sagar,2025-03,50564.750000000015,True
+madhya pradesh,sagar,2025-04,80491.62,True
+madhya pradesh,sagar,2025-05,54922.770000000004,True
+madhya pradesh,sagar,2025-06,28560.239999999998,True
+madhya pradesh,sagar,2025-07,20392.560000000005,True
+madhya pradesh,sagar,2025-08,20552.649999999994,True
+madhya pradesh,sagar,2025-09,25282.730000000003,True
+madhya pradesh,sagar,2025-10,16477.39,True
+madhya pradesh,satna,2025-01,8857.2,True
+madhya pradesh,satna,2025-02,5487.0199999999995,True
+madhya pradesh,satna,2025-03,15131.129999999997,True
+madhya pradesh,satna,2025-04,31420.97,True
+madhya pradesh,satna,2025-05,28540.290000000008,True
+madhya pradesh,satna,2025-06,19834.36,True
+madhya pradesh,satna,2025-07,19586.37,True
+madhya pradesh,satna,2025-08,19464.41,True
+madhya pradesh,satna,2025-09,23971.689999999995,True
+madhya pradesh,satna,2025-10,15729.740000000002,True
+madhya pradesh,sehore,2025-01,10967.650000000001,True
+madhya pradesh,sehore,2025-02,17075.199999999997,True
+madhya pradesh,sehore,2025-03,98526.93000000001,True
+madhya pradesh,sehore,2025-04,55889.600000000006,True
+madhya pradesh,sehore,2025-05,44545.34999999999,True
+madhya pradesh,sehore,2025-06,22481.15,True
+madhya pradesh,sehore,2025-07,14455.189999999999,True
+madhya pradesh,sehore,2025-08,11527.699999999999,True
+madhya pradesh,sehore,2025-09,15922.280000000002,True
+madhya pradesh,sehore,2025-10,11646.669999999998,True
+madhya pradesh,seoni,2025-01,441.8,True
+madhya pradesh,seoni,2025-02,98.72,True
+madhya pradesh,seoni,2025-03,52204.99,True
+madhya pradesh,seoni,2025-04,45704.25,True
+madhya pradesh,seoni,2025-05,8484.910000000002,True
+madhya pradesh,seoni,2025-06,3521.11,True
+madhya pradesh,seoni,2025-07,3239.63,True
+madhya pradesh,seoni,2025-08,8738.02,True
+madhya pradesh,seoni,2025-09,11144.2,True
+madhya pradesh,seoni,2025-10,6758.130000000001,True
+madhya pradesh,shahdol,2025-01,869.4300000000001,True
+madhya pradesh,shahdol,2025-02,733.18,True
+madhya pradesh,shahdol,2025-03,367.36,True
+madhya pradesh,shahdol,2025-04,1786.6100000000001,True
+madhya pradesh,shahdol,2025-05,3401.66,True
+madhya pradesh,shahdol,2025-06,2850.99,True
+madhya pradesh,shahdol,2025-07,2464.2999999999997,True
+madhya pradesh,shahdol,2025-08,3465.54,True
+madhya pradesh,shahdol,2025-09,3177.71,True
+madhya pradesh,shahdol,2025-10,2108.84,True
+madhya pradesh,shajapur,2025-01,3474.4300000000003,True
+madhya pradesh,shajapur,2025-02,9271.55,True
+madhya pradesh,shajapur,2025-03,87871.45000000001,True
+madhya pradesh,shajapur,2025-04,64725.76,True
+madhya pradesh,shajapur,2025-05,38537.64,True
+madhya pradesh,shajapur,2025-06,22317.060000000005,True
+madhya pradesh,shajapur,2025-07,14583.120000000003,True
+madhya pradesh,shajapur,2025-08,10293.039999999997,True
+madhya pradesh,shajapur,2025-09,12708.240000000002,True
+madhya pradesh,shajapur,2025-10,7074.450000000001,True
+madhya pradesh,sheopur,2025-01,975.8,True
+madhya pradesh,sheopur,2025-02,743.87,True
+madhya pradesh,sheopur,2025-03,10767.67,True
+madhya pradesh,sheopur,2025-04,44827.39,True
+madhya pradesh,sheopur,2025-05,45917.53,True
+madhya pradesh,sheopur,2025-06,18384.809999999998,True
+madhya pradesh,sheopur,2025-07,4189.88,True
+madhya pradesh,sheopur,2025-08,3140.76,True
+madhya pradesh,sheopur,2025-09,3410.71,True
+madhya pradesh,sheopur,2025-10,2857.93,True
+madhya pradesh,shivpuri,2025-01,2217.35,True
+madhya pradesh,shivpuri,2025-02,1267.79,True
+madhya pradesh,shivpuri,2025-03,33798.87,True
+madhya pradesh,shivpuri,2025-04,111210.60000000002,True
+madhya pradesh,shivpuri,2025-05,47954.64999999999,True
+madhya pradesh,shivpuri,2025-06,24256.799999999996,True
+madhya pradesh,shivpuri,2025-07,16291.120000000003,True
+madhya pradesh,shivpuri,2025-08,14004.46,True
+madhya pradesh,shivpuri,2025-09,17921.890000000007,True
+madhya pradesh,shivpuri,2025-10,9945.339999999998,True
+madhya pradesh,sidhi,2025-01,1517.45,True
+madhya pradesh,sidhi,2025-02,1209.02,True
+madhya pradesh,sidhi,2025-03,874.3,True
+madhya pradesh,sidhi,2025-04,875.06,True
+madhya pradesh,sidhi,2025-05,1634.5,True
+madhya pradesh,sidhi,2025-06,3193.1,True
+madhya pradesh,sidhi,2025-07,2689.1099999999997,True
+madhya pradesh,sidhi,2025-08,4415.92,True
+madhya pradesh,sidhi,2025-09,4503.1,True
+madhya pradesh,sidhi,2025-10,3234.1299999999997,True
+madhya pradesh,singrauli,2025-01,52.5,True
+madhya pradesh,singrauli,2025-03,12.0,True
+madhya pradesh,singrauli,2025-04,121.2,True
+madhya pradesh,singrauli,2025-05,223.61,True
+madhya pradesh,singrauli,2025-06,702.22,True
+madhya pradesh,singrauli,2025-07,388.63,True
+madhya pradesh,singrauli,2025-08,327.0,True
+madhya pradesh,singrauli,2025-09,250.9,True
+madhya pradesh,singrauli,2025-10,120.8,True
+madhya pradesh,tikamgarh,2025-01,26336.170000000006,True
+madhya pradesh,tikamgarh,2025-02,7998.990000000002,True
+madhya pradesh,tikamgarh,2025-03,19167.809999999998,True
+madhya pradesh,tikamgarh,2025-04,153148.03,True
+madhya pradesh,tikamgarh,2025-05,88608.5,True
+madhya pradesh,tikamgarh,2025-06,44707.009999999995,True
+madhya pradesh,tikamgarh,2025-07,38684.03,True
+madhya pradesh,tikamgarh,2025-08,45483.72,True
+madhya pradesh,tikamgarh,2025-09,46486.130000000005,True
+madhya pradesh,tikamgarh,2025-10,29419.07,True
+madhya pradesh,ujjain,2025-01,6018.58,True
+madhya pradesh,ujjain,2025-02,17734.469999999998,True
+madhya pradesh,ujjain,2025-03,165284.96000000002,True
+madhya pradesh,ujjain,2025-04,161187.87000000002,True
+madhya pradesh,ujjain,2025-05,76599.9,True
+madhya pradesh,ujjain,2025-06,28447.049999999996,True
+madhya pradesh,ujjain,2025-07,17636.96,True
+madhya pradesh,ujjain,2025-08,10876.369999999999,True
+madhya pradesh,ujjain,2025-09,13983.229999999996,True
+madhya pradesh,ujjain,2025-10,9387.7,True
+madhya pradesh,umaria,2025-01,1210.3899999999999,True
+madhya pradesh,umaria,2025-02,710.72,True
+madhya pradesh,umaria,2025-03,460.47,True
+madhya pradesh,umaria,2025-04,3206.5600000000004,True
+madhya pradesh,umaria,2025-05,4577.84,True
+madhya pradesh,umaria,2025-06,5023.13,True
+madhya pradesh,umaria,2025-07,5075.17,True
+madhya pradesh,umaria,2025-08,5163.72,True
+madhya pradesh,umaria,2025-09,5656.5,True
+madhya pradesh,umaria,2025-10,3820.1499999999996,True
+madhya pradesh,vidisha,2025-01,10569.41,True
+madhya pradesh,vidisha,2025-02,6657.700000000001,True
+madhya pradesh,vidisha,2025-03,62904.78999999999,True
+madhya pradesh,vidisha,2025-04,103688.71000000002,True
+madhya pradesh,vidisha,2025-05,64765.240000000005,True
+madhya pradesh,vidisha,2025-06,28950.35,True
+madhya pradesh,vidisha,2025-07,15494.9,True
+madhya pradesh,vidisha,2025-08,14505.829999999998,True
+madhya pradesh,vidisha,2025-09,18783.829999999998,True
+madhya pradesh,vidisha,2025-10,12933.289999999999,True
+maharashtra,ahmadnagar,2025-01,432.9100000000001,True
+maharashtra,ahmadnagar,2025-02,958.5399999999998,True
+maharashtra,ahmadnagar,2025-03,3339.9400000000005,True
+maharashtra,ahmadnagar,2025-04,2097.69,True
+maharashtra,ahmadnagar,2025-05,946.19,True
+maharashtra,ahmadnagar,2025-06,914.9300000000003,True
+maharashtra,ahmadnagar,2025-07,651.4600000000002,True
+maharashtra,ahmadnagar,2025-08,884.8600000000001,True
+maharashtra,ahmadnagar,2025-09,936.26,True
+maharashtra,ahmadnagar,2025-10,669.71,True
+maharashtra,akola,2025-01,185.40000000000003,True
+maharashtra,akola,2025-02,960.1,True
+maharashtra,akola,2025-03,2848.3999999999996,True
+maharashtra,akola,2025-04,1899.6000000000001,True
+maharashtra,akola,2025-05,1109.3,True
+maharashtra,akola,2025-06,741.0,True
+maharashtra,akola,2025-07,497.79999999999995,True
+maharashtra,akola,2025-08,365.80000000000007,True
+maharashtra,akola,2025-09,529.5,True
+maharashtra,akola,2025-10,245.40000000000003,True
+maharashtra,amravati,2025-01,261.00000000000006,True
+maharashtra,amravati,2025-02,1170.2,True
+maharashtra,amravati,2025-03,6114.7,True
+maharashtra,amravati,2025-04,5081.2,True
+maharashtra,amravati,2025-05,2877.199999999999,True
+maharashtra,amravati,2025-06,2703.3,True
+maharashtra,amravati,2025-07,1385.1999999999998,True
+maharashtra,amravati,2025-08,1207.8999999999996,True
+maharashtra,amravati,2025-09,758.0,True
+maharashtra,amravati,2025-10,360.29999999999995,True
+maharashtra,aurangabad,2025-01,255.99999999999997,True
+maharashtra,aurangabad,2025-02,713.6,True
+maharashtra,aurangabad,2025-03,2057.6,True
+maharashtra,aurangabad,2025-04,1510.8000000000002,True
+maharashtra,aurangabad,2025-05,889.8,True
+maharashtra,aurangabad,2025-06,640.0,True
+maharashtra,aurangabad,2025-07,506.79999999999995,True
+maharashtra,aurangabad,2025-08,640.5,True
+maharashtra,aurangabad,2025-09,1510.6,True
+maharashtra,aurangabad,2025-10,1136.0,True
+maharashtra,bhandara,2025-01,20.4,True
+maharashtra,bhandara,2025-02,35.800000000000004,True
+maharashtra,bhandara,2025-03,242.70000000000002,True
+maharashtra,bhandara,2025-04,135.0,True
+maharashtra,bhandara,2025-05,38.1,True
+maharashtra,bhandara,2025-06,31.5,True
+maharashtra,bhandara,2025-07,10.1,True
+maharashtra,bhandara,2025-08,8.1,True
+maharashtra,bhandara,2025-09,14.4,True
+maharashtra,bhandara,2025-10,13.8,True
+maharashtra,bid,2025-01,333.20000000000005,True
+maharashtra,bid,2025-02,763.2,True
+maharashtra,bid,2025-03,1643.5,True
+maharashtra,bid,2025-04,1054.1000000000001,True
+maharashtra,bid,2025-05,699.7,True
+maharashtra,bid,2025-06,562.3,True
+maharashtra,bid,2025-07,509.0999999999999,True
+maharashtra,bid,2025-08,499.4,True
+maharashtra,bid,2025-09,770.2,True
+maharashtra,bid,2025-10,634.9000000000001,True
+maharashtra,buldana,2025-01,493.8700000000001,True
+maharashtra,buldana,2025-02,871.9899999999999,True
+maharashtra,buldana,2025-03,3595.74,True
+maharashtra,buldana,2025-04,2258.5,True
+maharashtra,buldana,2025-05,1055.0,True
+maharashtra,buldana,2025-06,1025.2,True
+maharashtra,buldana,2025-07,918.4000000000001,True
+maharashtra,buldana,2025-08,974.4999999999998,True
+maharashtra,buldana,2025-09,1246.9999999999998,True
+maharashtra,buldana,2025-10,705.0000000000001,True
+maharashtra,dhule,2025-01,141.5,True
+maharashtra,dhule,2025-02,1132.2,True
+maharashtra,dhule,2025-03,9862.8,True
+maharashtra,dhule,2025-04,3379.2999999999997,True
+maharashtra,dhule,2025-05,1283.1999999999998,True
+maharashtra,dhule,2025-06,1365.3,True
+maharashtra,dhule,2025-07,1189.5,True
+maharashtra,dhule,2025-08,660.7,True
+maharashtra,dhule,2025-09,1179.9,True
+maharashtra,dhule,2025-10,668.2,True
+maharashtra,hingoli,2025-01,135.1,True
+maharashtra,hingoli,2025-02,90.6,True
+maharashtra,hingoli,2025-03,379.6,True
+maharashtra,hingoli,2025-04,266.0,True
+maharashtra,hingoli,2025-05,116.3,True
+maharashtra,hingoli,2025-06,67.1,True
+maharashtra,hingoli,2025-07,98.11000000000001,True
+maharashtra,hingoli,2025-08,109.6,True
+maharashtra,hingoli,2025-09,97.7,True
+maharashtra,hingoli,2025-10,60.5,True
+maharashtra,jalgaon,2025-01,187.00000000000003,True
+maharashtra,jalgaon,2025-02,980.7,True
+maharashtra,jalgaon,2025-03,4796.7,True
+maharashtra,jalgaon,2025-04,2288.9,True
+maharashtra,jalgaon,2025-05,1130.7,True
+maharashtra,jalgaon,2025-06,909.7,True
+maharashtra,jalgaon,2025-07,421.0,True
+maharashtra,jalgaon,2025-08,197.6,True
+maharashtra,jalgaon,2025-09,377.0,True
+maharashtra,jalgaon,2025-10,195.8,True
+maharashtra,jalna,2025-01,627.9999999999999,True
+maharashtra,jalna,2025-02,1601.7999999999997,True
+maharashtra,jalna,2025-03,4294.200000000001,True
+maharashtra,jalna,2025-04,3060.5,True
+maharashtra,jalna,2025-05,1718.3999999999996,True
+maharashtra,jalna,2025-06,1640.3,True
+maharashtra,jalna,2025-07,1638.4,True
+maharashtra,jalna,2025-08,1897.6,True
+maharashtra,jalna,2025-09,3490.7000000000007,True
+maharashtra,jalna,2025-10,2225.0,True
+maharashtra,latur,2025-01,13.5,True
+maharashtra,latur,2025-02,39.5,True
+maharashtra,latur,2025-03,61.7,True
+maharashtra,latur,2025-04,119.8,True
+maharashtra,latur,2025-05,63.89999999999999,True
+maharashtra,latur,2025-06,799.1999999999999,True
+maharashtra,latur,2025-07,70.4,True
+maharashtra,latur,2025-08,43.89999999999999,True
+maharashtra,latur,2025-09,64.80000000000001,True
+maharashtra,latur,2025-10,27.2,True
+maharashtra,mumbai,2025-01,14134.5,True
+maharashtra,mumbai,2025-02,11968.1,True
+maharashtra,mumbai,2025-03,21259.1,True
+maharashtra,mumbai,2025-04,20066.9,True
+maharashtra,mumbai,2025-05,14295.5,True
+maharashtra,mumbai,2025-06,14091.8,True
+maharashtra,mumbai,2025-07,13058.099999999999,True
+maharashtra,mumbai,2025-08,14521.8,True
+maharashtra,mumbai,2025-09,15114.9,True
+maharashtra,mumbai,2025-10,10992.2,True
+maharashtra,nagpur,2025-01,1383.7,True
+maharashtra,nagpur,2025-02,952.9,True
+maharashtra,nagpur,2025-03,6701.199999999999,True
+maharashtra,nagpur,2025-04,5709.300000000001,True
+maharashtra,nagpur,2025-05,2384.1,True
+maharashtra,nagpur,2025-06,2028.0000000000005,True
+maharashtra,nagpur,2025-07,1181.1,True
+maharashtra,nagpur,2025-08,830.8,True
+maharashtra,nagpur,2025-09,684.4,True
+maharashtra,nagpur,2025-10,512.5,True
+maharashtra,nanded,2025-01,24.999999999999996,True
+maharashtra,nanded,2025-02,48.9,True
+maharashtra,nanded,2025-03,255.2,True
+maharashtra,nanded,2025-04,107.1,True
+maharashtra,nanded,2025-05,40.39999999999999,True
+maharashtra,nanded,2025-06,34.9,True
+maharashtra,nanded,2025-07,35.7,True
+maharashtra,nanded,2025-08,10.3,True
+maharashtra,nanded,2025-09,51.30000000000001,True
+maharashtra,nanded,2025-10,32.7,True
+maharashtra,nandurbar,2025-01,50.7,True
+maharashtra,nandurbar,2025-02,773.6999999999999,True
+maharashtra,nandurbar,2025-03,3974.5,True
+maharashtra,nandurbar,2025-04,2830.3999999999996,True
+maharashtra,nandurbar,2025-05,160.5,True
+maharashtra,nandurbar,2025-06,144.4,True
+maharashtra,nandurbar,2025-07,70.60000000000001,True
+maharashtra,nandurbar,2025-08,33.3,True
+maharashtra,nandurbar,2025-09,81.4,True
+maharashtra,nandurbar,2025-10,168.5,True
+maharashtra,nashik,2025-01,358.59999999999997,True
+maharashtra,nashik,2025-02,1488.0,True
+maharashtra,nashik,2025-03,5771.999999999999,True
+maharashtra,nashik,2025-04,3085.5000000000005,True
+maharashtra,nashik,2025-05,1232.0,True
+maharashtra,nashik,2025-06,734.9,True
+maharashtra,nashik,2025-07,475.29999999999984,True
+maharashtra,nashik,2025-08,435.1,True
+maharashtra,nashik,2025-09,822.2,True
+maharashtra,nashik,2025-10,768.1,True
+maharashtra,osmanabad,2025-01,11.499999999999998,True
+maharashtra,osmanabad,2025-02,236.79999999999998,True
+maharashtra,osmanabad,2025-03,390.1,True
+maharashtra,osmanabad,2025-04,265.29999999999995,True
+maharashtra,osmanabad,2025-05,186.7,True
+maharashtra,osmanabad,2025-06,166.89999999999998,True
+maharashtra,osmanabad,2025-07,106.8,True
+maharashtra,osmanabad,2025-08,93.80000000000001,True
+maharashtra,osmanabad,2025-09,34.9,True
+maharashtra,osmanabad,2025-10,29.199999999999996,True
+maharashtra,parbhani,2025-01,59.09999999999999,True
+maharashtra,parbhani,2025-02,50.099999999999994,True
+maharashtra,parbhani,2025-03,288.5,True
+maharashtra,parbhani,2025-04,204.40000000000003,True
+maharashtra,parbhani,2025-05,136.10000000000002,True
+maharashtra,parbhani,2025-06,56.0,True
+maharashtra,parbhani,2025-07,38.0,True
+maharashtra,parbhani,2025-08,26.700000000000003,True
+maharashtra,parbhani,2025-09,35.5,True
+maharashtra,parbhani,2025-10,33.71,True
+maharashtra,pune,2025-01,784.8,True
+maharashtra,pune,2025-02,344.40000000000003,True
+maharashtra,pune,2025-03,1035.2,True
+maharashtra,pune,2025-04,1171.7,True
+maharashtra,pune,2025-05,533.6,True
+maharashtra,pune,2025-06,473.99999999999994,True
+maharashtra,pune,2025-07,248.4,True
+maharashtra,pune,2025-08,1302.2,True
+maharashtra,pune,2025-09,1535.0,True
+maharashtra,pune,2025-10,1298.1,True
+maharashtra,sangli,2025-01,851.7,True
+maharashtra,sangli,2025-02,1143.5,True
+maharashtra,sangli,2025-03,1808.2,True
+maharashtra,sangli,2025-04,893.4,True
+maharashtra,sangli,2025-05,1092.9,True
+maharashtra,sangli,2025-06,1316.6,True
+maharashtra,sangli,2025-07,1409.0,True
+maharashtra,sangli,2025-08,1105.8000000000002,True
+maharashtra,sangli,2025-09,1092.9,True
+maharashtra,sangli,2025-10,1187.6,True
+maharashtra,satara,2025-01,88.1,True
+maharashtra,satara,2025-02,139.7,True
+maharashtra,satara,2025-03,42.1,True
+maharashtra,satara,2025-04,150.0,True
+maharashtra,satara,2025-05,17.0,True
+maharashtra,satara,2025-06,160.60000000000002,True
+maharashtra,satara,2025-07,8.5,True
+maharashtra,satara,2025-08,84.19999999999999,True
+maharashtra,satara,2025-09,113.1,True
+maharashtra,satara,2025-10,75.0,True
+maharashtra,solapur,2025-01,1624.9,True
+maharashtra,solapur,2025-02,1848.3000000000002,True
+maharashtra,solapur,2025-03,2585.3,True
+maharashtra,solapur,2025-04,2239.5,True
+maharashtra,solapur,2025-05,2082.3,True
+maharashtra,solapur,2025-06,1923.7999999999997,True
+maharashtra,solapur,2025-07,1973.4,True
+maharashtra,solapur,2025-08,1837.9000000000005,True
+maharashtra,solapur,2025-09,2072.8999999999996,True
+maharashtra,solapur,2025-10,1475.7999999999997,True
+maharashtra,thane,2025-01,2009.2999999999997,True
+maharashtra,thane,2025-02,1748.3999999999996,True
+maharashtra,thane,2025-03,1796.8,True
+maharashtra,thane,2025-04,1383.1000000000001,True
+maharashtra,thane,2025-05,1255.3000000000002,True
+maharashtra,thane,2025-06,1540.6000000000001,True
+maharashtra,thane,2025-07,1825.7,True
+maharashtra,thane,2025-08,1329.7999999999997,True
+maharashtra,thane,2025-09,1525.0,True
+maharashtra,thane,2025-10,2186.8,True
+maharashtra,wardha,2025-01,337.09999999999997,True
+maharashtra,wardha,2025-02,857.1,True
+maharashtra,wardha,2025-03,3883.4000000000005,True
+maharashtra,wardha,2025-04,1786.0999999999997,True
+maharashtra,wardha,2025-05,1527.7999999999997,True
+maharashtra,wardha,2025-06,1260.6000000000001,True
+maharashtra,wardha,2025-07,545.7,True
+maharashtra,wardha,2025-08,364.2,True
+maharashtra,wardha,2025-09,245.40000000000003,True
+maharashtra,wardha,2025-10,133.3,True
+maharashtra,washim,2025-01,511.1,True
+maharashtra,washim,2025-02,6825.4,True
+maharashtra,washim,2025-03,14047.2,True
+maharashtra,washim,2025-04,3212.5999999999995,True
+maharashtra,washim,2025-05,1639.04,True
+maharashtra,washim,2025-06,1832.8,True
+maharashtra,washim,2025-07,1271.1999999999998,True
+maharashtra,washim,2025-08,1145.8,True
+maharashtra,washim,2025-09,1120.3000000000002,True
+maharashtra,washim,2025-10,590.1,True
+maharashtra,yavatmal,2025-01,35.43,True
+maharashtra,yavatmal,2025-02,628.9300000000001,True
+maharashtra,yavatmal,2025-03,2158.46,True
+maharashtra,yavatmal,2025-04,899.9499999999999,True
+maharashtra,yavatmal,2025-05,372.83,True
+maharashtra,yavatmal,2025-06,231.45,True
+maharashtra,yavatmal,2025-07,162.6,True
+maharashtra,yavatmal,2025-08,132.23,True
+maharashtra,yavatmal,2025-09,315.36,True
+maharashtra,yavatmal,2025-10,160.11,True
+nct of delhi,south west,2025-01,600.1,True
+nct of delhi,south west,2025-02,694.0,True
+nct of delhi,south west,2025-03,1109.0,True
+nct of delhi,south west,2025-04,8611.8,True
+nct of delhi,south west,2025-05,2099.9,True
+nct of delhi,south west,2025-06,743.9000000000001,True
+nct of delhi,south west,2025-07,847.8,True
+nct of delhi,south west,2025-08,688.1000000000001,True
+nct of delhi,south west,2025-09,1038.2,True
+nct of delhi,south west,2025-10,936.5,True
+punjab,amritsar,2025-04,129841.0,True
+punjab,amritsar,2025-05,25557.0,True
+punjab,barnala,2025-03,2.0,True
+punjab,barnala,2025-04,75498.0,True
+punjab,barnala,2025-05,7669.0,True
+punjab,bathinda,2025-04,70594.0,True
+punjab,bathinda,2025-05,17124.0,True
+punjab,faridkot,2025-04,253389.0,True
+punjab,faridkot,2025-05,38816.0,True
+punjab,fatehgarh sahib,2025-04,162624.75,True
+punjab,fatehgarh sahib,2025-05,18803.550000000003,True
+punjab,fatehgarh sahib,2025-08,24.8,True
+punjab,firozpur,2025-04,1061690.7,True
+punjab,firozpur,2025-05,121847.15,True
+punjab,firozpur,2025-09,33.5,True
+punjab,firozpur,2025-10,105.0,True
+punjab,gurdaspur,2025-04,44873.0,True
+punjab,gurdaspur,2025-05,6455.0,True
+punjab,hoshiarpur,2025-04,13023.0,True
+punjab,hoshiarpur,2025-05,3095.7999999999993,True
+punjab,jalandhar,2025-04,254228.71000000002,True
+punjab,jalandhar,2025-05,60937.00000000001,True
+punjab,jalandhar,2025-06,21.5,True
+punjab,kapurthala,2025-04,37888.149999999994,True
+punjab,kapurthala,2025-05,1933.3,True
+punjab,ludhiana,2025-04,126222.35,True
+punjab,ludhiana,2025-05,10128.150000000001,True
+punjab,mansa,2025-04,224867.0,True
+punjab,mansa,2025-05,36940.8,True
+punjab,moga,2025-04,175534.0,True
+punjab,moga,2025-05,6344.1,True
+punjab,muktsar,2025-04,502577.0,True
+punjab,muktsar,2025-05,165834.0,True
+punjab,patiala,2025-04,180134.2,True
+punjab,patiala,2025-05,1516.3,True
+punjab,patiala,2025-07,16.8,True
+punjab,patiala,2025-08,7.0,True
+punjab,patiala,2025-09,26.2,True
+punjab,rupnagar,2025-04,27896.95,True
+punjab,rupnagar,2025-05,2598.2,True
+punjab,rupnagar,2025-09,367.82,True
+punjab,sahibzada ajit singh nagar,2025-01,8.0,True
+punjab,sahibzada ajit singh nagar,2025-02,28.3,True
+punjab,sahibzada ajit singh nagar,2025-03,7.0,True
+punjab,sahibzada ajit singh nagar,2025-04,32642.249999999996,True
+punjab,sahibzada ajit singh nagar,2025-05,342.0,True
+punjab,sahibzada ajit singh nagar,2025-06,1.3,True
+punjab,sahibzada ajit singh nagar,2025-07,10.6,True
+punjab,sahibzada ajit singh nagar,2025-08,18.0,True
+punjab,sangrur,2025-04,279874.0,True
+punjab,sangrur,2025-05,53038.0,True
+punjab,shahid bhagat singh nagar,2025-04,46586.0,True
+punjab,shahid bhagat singh nagar,2025-05,6167.75,True
+punjab,shahid bhagat singh nagar,2025-07,59.099999999999994,True
+punjab,shahid bhagat singh nagar,2025-08,175.07999999999998,True
+punjab,shahid bhagat singh nagar,2025-09,131.76,True
+punjab,shahid bhagat singh nagar,2025-10,35.75,True
+punjab,tarn taran,2025-04,227571.0,True
+punjab,tarn taran,2025-05,27776.0,True
+rajasthan,ajmer,2025-01,351.5,True
+rajasthan,ajmer,2025-02,91.87,True
+rajasthan,ajmer,2025-03,299.0,True
+rajasthan,ajmer,2025-04,1190.9,True
+rajasthan,ajmer,2025-05,729.1,True
+rajasthan,ajmer,2025-06,513.9000000000001,True
+rajasthan,ajmer,2025-07,178.7,True
+rajasthan,ajmer,2025-08,213.5,True
+rajasthan,ajmer,2025-09,118.5,True
+rajasthan,ajmer,2025-10,250.7,True
+rajasthan,alwar,2025-01,909.7,True
+rajasthan,alwar,2025-02,630.7,True
+rajasthan,alwar,2025-03,1281.3999999999999,True
+rajasthan,alwar,2025-04,24152.4,True
+rajasthan,alwar,2025-05,6629.95,True
+rajasthan,alwar,2025-06,2364.65,True
+rajasthan,alwar,2025-07,1428.0500000000002,True
+rajasthan,alwar,2025-08,1583.5,True
+rajasthan,alwar,2025-09,1287.8000000000002,True
+rajasthan,alwar,2025-10,795.7,True
+rajasthan,baran,2025-01,2132.8500000000004,True
+rajasthan,baran,2025-02,1935.1000000000001,True
+rajasthan,baran,2025-03,86718.5,True
+rajasthan,baran,2025-04,205789.79999999996,True
+rajasthan,baran,2025-05,81598.80000000002,True
+rajasthan,baran,2025-06,18271.9,True
+rajasthan,baran,2025-07,6675.0999999999985,True
+rajasthan,baran,2025-08,5477.4,True
+rajasthan,baran,2025-09,5647.45,True
+rajasthan,baran,2025-10,2582.2,True
+rajasthan,bharatpur,2025-01,833.3,True
+rajasthan,bharatpur,2025-02,501.19999999999993,True
+rajasthan,bharatpur,2025-03,1303.8000000000002,True
+rajasthan,bharatpur,2025-04,11968.900000000001,True
+rajasthan,bharatpur,2025-05,3676.2,True
+rajasthan,bharatpur,2025-06,1468.1000000000001,True
+rajasthan,bharatpur,2025-07,812.3,True
+rajasthan,bharatpur,2025-08,1334.5,True
+rajasthan,bharatpur,2025-09,879.5999999999999,True
+rajasthan,bharatpur,2025-10,923.6999999999998,True
+rajasthan,bhilwara,2025-01,14.8,True
+rajasthan,bhilwara,2025-02,21.4,True
+rajasthan,bhilwara,2025-03,207.0,True
+rajasthan,bhilwara,2025-04,397.8,True
+rajasthan,bhilwara,2025-05,141.3,True
+rajasthan,bhilwara,2025-06,60.5,True
+rajasthan,bhilwara,2025-07,70.94999999999999,True
+rajasthan,bhilwara,2025-08,37.650000000000006,True
+rajasthan,bhilwara,2025-09,44.1,True
+rajasthan,bhilwara,2025-10,39.10000000000001,True
+rajasthan,bikaner,2025-01,2.2,True
+rajasthan,bikaner,2025-03,19.5,True
+rajasthan,bikaner,2025-04,12169.500000000002,True
+rajasthan,bikaner,2025-05,7736.1,True
+rajasthan,bikaner,2025-06,1826.5999999999997,True
+rajasthan,bikaner,2025-07,626.9,True
+rajasthan,bikaner,2025-08,430.2,True
+rajasthan,bikaner,2025-09,405.4,True
+rajasthan,bikaner,2025-10,329.6,True
+rajasthan,bundi,2025-01,703.7,True
+rajasthan,bundi,2025-02,468.40000000000003,True
+rajasthan,bundi,2025-03,13892.7,True
+rajasthan,bundi,2025-04,84742.09999999999,True
+rajasthan,bundi,2025-05,15351.499999999998,True
+rajasthan,bundi,2025-06,5534.6,True
+rajasthan,bundi,2025-07,1645.7999999999997,True
+rajasthan,bundi,2025-08,1741.6999999999998,True
+rajasthan,bundi,2025-09,2498.2000000000003,True
+rajasthan,bundi,2025-10,2651.8,True
+rajasthan,chittaurgarh,2025-01,4436.7,True
+rajasthan,chittaurgarh,2025-02,2829.9,True
+rajasthan,chittaurgarh,2025-03,16342.7,True
+rajasthan,chittaurgarh,2025-04,17351.199999999997,True
+rajasthan,chittaurgarh,2025-05,20499.699999999997,True
+rajasthan,chittaurgarh,2025-06,9443.599999999999,True
+rajasthan,chittaurgarh,2025-07,8856.869999999999,True
+rajasthan,chittaurgarh,2025-08,6331.1,True
+rajasthan,chittaurgarh,2025-09,12096.599999999999,True
+rajasthan,chittaurgarh,2025-10,7217.700000000001,True
+rajasthan,churu,2025-03,5.5,True
+rajasthan,churu,2025-04,10.0,True
+rajasthan,churu,2025-05,1.0,True
+rajasthan,churu,2025-07,1.0,True
+rajasthan,churu,2025-08,23.0,True
+rajasthan,churu,2025-09,1.5,True
+rajasthan,churu,2025-10,0.5,True
+rajasthan,dausa,2025-01,2668.2000000000007,True
+rajasthan,dausa,2025-02,1808.4999999999998,True
+rajasthan,dausa,2025-03,6989.500000000001,True
+rajasthan,dausa,2025-04,15995.5,True
+rajasthan,dausa,2025-05,11659.5,True
+rajasthan,dausa,2025-06,7072.6,True
+rajasthan,dausa,2025-07,3795.299999999999,True
+rajasthan,dausa,2025-08,3197.7000000000007,True
+rajasthan,dausa,2025-09,3039.8999999999996,True
+rajasthan,dausa,2025-10,4192.7,True
+rajasthan,dhaulpur,2025-01,27.85,True
+rajasthan,dhaulpur,2025-02,1.5,True
+rajasthan,dhaulpur,2025-03,280.11,True
+rajasthan,dhaulpur,2025-04,2831.79,True
+rajasthan,dhaulpur,2025-05,940.1799999999998,True
+rajasthan,dhaulpur,2025-06,406.9,True
+rajasthan,dhaulpur,2025-07,276.4,True
+rajasthan,dhaulpur,2025-08,73.8,True
+rajasthan,dhaulpur,2025-09,119.5,True
+rajasthan,dhaulpur,2025-10,97.9,True
+rajasthan,ganganagar,2025-01,279.8,True
+rajasthan,ganganagar,2025-02,110.5,True
+rajasthan,ganganagar,2025-03,159.9,True
+rajasthan,ganganagar,2025-04,123056.0,True
+rajasthan,ganganagar,2025-05,96286.4,True
+rajasthan,ganganagar,2025-06,8903.650000000001,True
+rajasthan,ganganagar,2025-07,3761.6999999999994,True
+rajasthan,ganganagar,2025-08,2539.0000000000005,True
+rajasthan,ganganagar,2025-09,2730.4,True
+rajasthan,ganganagar,2025-10,799.3,True
+rajasthan,hanumangarh,2025-01,9.1,True
+rajasthan,hanumangarh,2025-02,18.6,True
+rajasthan,hanumangarh,2025-03,25.099999999999998,True
+rajasthan,hanumangarh,2025-04,108012.35,True
+rajasthan,hanumangarh,2025-05,84695.84999999999,True
+rajasthan,hanumangarh,2025-06,21487.599999999995,True
+rajasthan,hanumangarh,2025-07,1259.8000000000002,True
+rajasthan,hanumangarh,2025-08,1553.8999999999999,True
+rajasthan,hanumangarh,2025-09,2111.1000000000004,True
+rajasthan,hanumangarh,2025-10,711.4000000000001,True
+rajasthan,jaipur,2025-01,278.2,True
+rajasthan,jaipur,2025-02,171.4,True
+rajasthan,jaipur,2025-03,737.5999999999999,True
+rajasthan,jaipur,2025-04,6814.999999999999,True
+rajasthan,jaipur,2025-05,3688.9500000000007,True
+rajasthan,jaipur,2025-06,689.4000000000001,True
+rajasthan,jaipur,2025-07,913.0999999999999,True
+rajasthan,jaipur,2025-08,781.4000000000001,True
+rajasthan,jaipur,2025-09,771.0,True
+rajasthan,jaipur,2025-10,658.0999999999999,True
+rajasthan,jalor,2025-03,6.4,True
+rajasthan,jalor,2025-04,12.6,True
+rajasthan,jhalawar,2025-01,1362.0,True
+rajasthan,jhalawar,2025-02,1063.9,True
+rajasthan,jhalawar,2025-03,46818.2,True
+rajasthan,jhalawar,2025-04,40238.2,True
+rajasthan,jhalawar,2025-05,18673.7,True
+rajasthan,jhalawar,2025-06,6784.5,True
+rajasthan,jhalawar,2025-07,3337.3999999999996,True
+rajasthan,jhalawar,2025-08,3019.8,True
+rajasthan,jhalawar,2025-09,4251.1,True
+rajasthan,jhalawar,2025-10,1844.9,True
+rajasthan,jhunjhunun,2025-01,20.3,True
+rajasthan,jhunjhunun,2025-02,16.8,True
+rajasthan,jhunjhunun,2025-03,21.049999999999997,True
+rajasthan,jhunjhunun,2025-04,184.50000000000003,True
+rajasthan,jhunjhunun,2025-05,38.2,True
+rajasthan,jhunjhunun,2025-06,22.099999999999998,True
+rajasthan,jhunjhunun,2025-07,46.400000000000006,True
+rajasthan,jhunjhunun,2025-08,62.4,True
+rajasthan,jhunjhunun,2025-09,59.05,True
+rajasthan,jhunjhunun,2025-10,13.25,True
+rajasthan,jodhpur,2025-01,16.6,True
+rajasthan,jodhpur,2025-02,8.5,True
+rajasthan,jodhpur,2025-03,44.800000000000004,True
+rajasthan,jodhpur,2025-04,226.45000000000005,True
+rajasthan,jodhpur,2025-05,78.2,True
+rajasthan,jodhpur,2025-06,13.399999999999999,True
+rajasthan,jodhpur,2025-07,21.7,True
+rajasthan,jodhpur,2025-08,26.8,True
+rajasthan,jodhpur,2025-09,22.5,True
+rajasthan,jodhpur,2025-10,8.5,True
+rajasthan,karauli,2025-01,229.9,True
+rajasthan,karauli,2025-02,355.19999999999993,True
+rajasthan,karauli,2025-03,2263.5,True
+rajasthan,karauli,2025-04,5445.099999999999,True
+rajasthan,karauli,2025-05,1903.5,True
+rajasthan,karauli,2025-06,1137.6000000000001,True
+rajasthan,karauli,2025-07,699.5,True
+rajasthan,karauli,2025-08,1128.7,True
+rajasthan,karauli,2025-09,1109.3000000000002,True
+rajasthan,karauli,2025-10,1224.0,True
+rajasthan,kota,2025-01,3953.7000000000003,True
+rajasthan,kota,2025-02,3117.9,True
+rajasthan,kota,2025-03,47080.600000000006,True
+rajasthan,kota,2025-04,243897.8,True
+rajasthan,kota,2025-05,82172.50000000001,True
+rajasthan,kota,2025-06,23521.0,True
+rajasthan,kota,2025-07,8071.7,True
+rajasthan,kota,2025-08,6233.6,True
+rajasthan,kota,2025-09,15720.899999999998,True
+rajasthan,kota,2025-10,9814.7,True
+rajasthan,nagaur,2025-03,3.0,True
+rajasthan,nagaur,2025-04,125.2,True
+rajasthan,nagaur,2025-05,108.2,True
+rajasthan,nagaur,2025-06,31.75,True
+rajasthan,nagaur,2025-07,62.8,True
+rajasthan,nagaur,2025-08,88.5,True
+rajasthan,nagaur,2025-09,7.0,True
+rajasthan,nagaur,2025-10,47.5,True
+rajasthan,pali,2025-01,259.2,True
+rajasthan,pali,2025-02,85.0,True
+rajasthan,pali,2025-03,1880.3000000000002,True
+rajasthan,pali,2025-04,5742.3,True
+rajasthan,pali,2025-05,3358.2999999999997,True
+rajasthan,pali,2025-06,2260.6,True
+rajasthan,pali,2025-07,878.7,True
+rajasthan,pali,2025-08,680.3000000000001,True
+rajasthan,pali,2025-09,691.4,True
+rajasthan,pali,2025-10,393.2,True
+rajasthan,pratapgarh,2025-01,501.1,True
+rajasthan,pratapgarh,2025-02,2534.2999999999997,True
+rajasthan,pratapgarh,2025-03,11662.0,True
+rajasthan,pratapgarh,2025-04,7580.5,True
+rajasthan,pratapgarh,2025-05,4545.4,True
+rajasthan,pratapgarh,2025-06,1671.5,True
+rajasthan,pratapgarh,2025-07,921.9999999999999,True
+rajasthan,pratapgarh,2025-08,790.9999999999999,True
+rajasthan,pratapgarh,2025-09,1029.3,True
+rajasthan,pratapgarh,2025-10,507.3,True
+rajasthan,sawai madhopur,2025-01,428.4000000000001,True
+rajasthan,sawai madhopur,2025-02,417.59999999999997,True
+rajasthan,sawai madhopur,2025-03,1324.2,True
+rajasthan,sawai madhopur,2025-04,6806.7,True
+rajasthan,sawai madhopur,2025-05,2575.5,True
+rajasthan,sawai madhopur,2025-06,1024.7,True
+rajasthan,sawai madhopur,2025-07,395.5,True
+rajasthan,sawai madhopur,2025-08,450.8,True
+rajasthan,sawai madhopur,2025-09,675.5999999999999,True
+rajasthan,sawai madhopur,2025-10,784.1,True
+rajasthan,sikar,2025-01,11.0,True
+rajasthan,sikar,2025-02,6.35,True
+rajasthan,sikar,2025-03,4.05,True
+rajasthan,sikar,2025-04,117.1,True
+rajasthan,sikar,2025-05,50.10000000000001,True
+rajasthan,sikar,2025-06,23.55,True
+rajasthan,sikar,2025-07,7.1,True
+rajasthan,sikar,2025-08,10.899999999999999,True
+rajasthan,sikar,2025-09,4.95,True
+rajasthan,sikar,2025-10,1.4,True
+rajasthan,tonk,2025-01,480.29999999999995,True
+rajasthan,tonk,2025-02,327.6,True
+rajasthan,tonk,2025-03,1131.6999999999998,True
+rajasthan,tonk,2025-04,10995.000000000004,True
+rajasthan,tonk,2025-05,5006.4,True
+rajasthan,tonk,2025-06,3395.2999999999997,True
+rajasthan,tonk,2025-07,1201.1,True
+rajasthan,tonk,2025-08,1349.8,True
+rajasthan,tonk,2025-09,2199.7999999999997,True
+rajasthan,tonk,2025-10,2314.8,True
+rajasthan,udaipur,2025-01,226.3,True
+rajasthan,udaipur,2025-02,876.0,True
+rajasthan,udaipur,2025-03,1875.7,True
+rajasthan,udaipur,2025-04,3467.2999999999997,True
+rajasthan,udaipur,2025-05,3505.8999999999996,True
+rajasthan,udaipur,2025-06,1540.5,True
+rajasthan,udaipur,2025-07,1365.6,True
+rajasthan,udaipur,2025-08,860.3,True
+rajasthan,udaipur,2025-09,1385.6000000000001,True
+rajasthan,udaipur,2025-10,1176.6,True
+telangana,adilabad,2025-03,1.9300000000000002,True
+telangana,adilabad,2025-04,3.3600000000000003,True
+telangana,adilabad,2025-05,1.01,True
+telangana,adilabad,2025-06,0.45,True
+telangana,adilabad,2025-07,0.84,True
+telangana,adilabad,2025-08,100.07,True
+telangana,adilabad,2025-09,0.75,True
+telangana,adilabad,2025-10,125.0,True
+telangana,medak,2025-03,3.65,True
+telangana,medak,2025-04,16.0,True
+telangana,medak,2025-05,8.05,True
+telangana,medak,2025-06,3.5,True
+telangana,medak,2025-07,0.9,True
+telangana,medak,2025-08,0.4,True
+telangana,medak,2025-09,1.5,True
+telangana,medak,2025-10,0.15,True
+uttar pradesh,agra,2025-01,12658.1,True
+uttar pradesh,agra,2025-02,10734.300000000001,True
+uttar pradesh,agra,2025-03,14292.1,True
+uttar pradesh,agra,2025-04,52967.3,True
+uttar pradesh,agra,2025-05,24429.800000000003,True
+uttar pradesh,agra,2025-06,17911.4,True
+uttar pradesh,agra,2025-07,13362.3,True
+uttar pradesh,agra,2025-08,15082.900000000001,True
+uttar pradesh,agra,2025-09,10704.8,True
+uttar pradesh,agra,2025-10,11334.500000000002,True
+uttar pradesh,aligarh,2025-01,5579.0,True
+uttar pradesh,aligarh,2025-02,4872.5,True
+uttar pradesh,aligarh,2025-03,5813.0,True
+uttar pradesh,aligarh,2025-04,63820.5,True
+uttar pradesh,aligarh,2025-05,37575.7,True
+uttar pradesh,aligarh,2025-06,16621.6,True
+uttar pradesh,aligarh,2025-07,7643.5,True
+uttar pradesh,aligarh,2025-08,6913.5,True
+uttar pradesh,aligarh,2025-09,7579.5,True
+uttar pradesh,aligarh,2025-10,5953.0,True
+uttar pradesh,allahabad,2025-01,2269.2,True
+uttar pradesh,allahabad,2025-02,1614.2,True
+uttar pradesh,allahabad,2025-03,7687.799999999999,True
+uttar pradesh,allahabad,2025-04,20687.1,True
+uttar pradesh,allahabad,2025-05,25073.7,True
+uttar pradesh,allahabad,2025-06,18569.4,True
+uttar pradesh,allahabad,2025-07,20147.5,True
+uttar pradesh,allahabad,2025-08,20759.6,True
+uttar pradesh,allahabad,2025-09,13715.9,True
+uttar pradesh,allahabad,2025-10,10000.5,True
+uttar pradesh,ambedkar nagar,2025-01,911.0,True
+uttar pradesh,ambedkar nagar,2025-02,1086.0,True
+uttar pradesh,ambedkar nagar,2025-03,707.0,True
+uttar pradesh,ambedkar nagar,2025-04,1157.0,True
+uttar pradesh,ambedkar nagar,2025-05,1928.0,True
+uttar pradesh,ambedkar nagar,2025-06,2469.0,True
+uttar pradesh,ambedkar nagar,2025-07,1554.0,True
+uttar pradesh,ambedkar nagar,2025-08,977.0,True
+uttar pradesh,ambedkar nagar,2025-09,1099.0,True
+uttar pradesh,ambedkar nagar,2025-10,1038.0,True
+uttar pradesh,auraiya,2025-01,5900.5,True
+uttar pradesh,auraiya,2025-02,5658.7,True
+uttar pradesh,auraiya,2025-03,4636.5,True
+uttar pradesh,auraiya,2025-04,39262.9,True
+uttar pradesh,auraiya,2025-05,28931.7,True
+uttar pradesh,auraiya,2025-06,17900.6,True
+uttar pradesh,auraiya,2025-07,14355.0,True
+uttar pradesh,auraiya,2025-08,14460.0,True
+uttar pradesh,auraiya,2025-09,14870.4,True
+uttar pradesh,auraiya,2025-10,10732.8,True
+uttar pradesh,azamgarh,2025-01,4493.0,True
+uttar pradesh,azamgarh,2025-02,3191.4,True
+uttar pradesh,azamgarh,2025-03,3988.1,True
+uttar pradesh,azamgarh,2025-04,5650.75,True
+uttar pradesh,azamgarh,2025-05,5167.6,True
+uttar pradesh,azamgarh,2025-06,2382.35,True
+uttar pradesh,azamgarh,2025-07,10018.7,True
+uttar pradesh,azamgarh,2025-08,6927.5,True
+uttar pradesh,azamgarh,2025-09,6423.0,True
+uttar pradesh,azamgarh,2025-10,5075.0,True
+uttar pradesh,baghpat,2025-01,169.3,True
+uttar pradesh,baghpat,2025-02,135.0,True
+uttar pradesh,baghpat,2025-03,147.5,True
+uttar pradesh,baghpat,2025-04,434.0,True
+uttar pradesh,baghpat,2025-05,351.0,True
+uttar pradesh,baghpat,2025-06,131.0,True
+uttar pradesh,baghpat,2025-07,98.0,True
+uttar pradesh,baghpat,2025-08,65.0,True
+uttar pradesh,baghpat,2025-09,92.5,True
+uttar pradesh,baghpat,2025-10,80.5,True
+uttar pradesh,bahraich,2025-01,10802.0,True
+uttar pradesh,bahraich,2025-02,14249.0,True
+uttar pradesh,bahraich,2025-03,6769.0,True
+uttar pradesh,bahraich,2025-04,38927.0,True
+uttar pradesh,bahraich,2025-05,50845.0,True
+uttar pradesh,bahraich,2025-06,32284.0,True
+uttar pradesh,bahraich,2025-07,29232.2,True
+uttar pradesh,bahraich,2025-08,22615.9,True
+uttar pradesh,bahraich,2025-09,18675.0,True
+uttar pradesh,bahraich,2025-10,13755.0,True
+uttar pradesh,ballia,2025-01,4371.0,True
+uttar pradesh,ballia,2025-02,3668.0,True
+uttar pradesh,ballia,2025-03,4729.0,True
+uttar pradesh,ballia,2025-04,8248.5,True
+uttar pradesh,ballia,2025-05,12040.0,True
+uttar pradesh,ballia,2025-06,11235.0,True
+uttar pradesh,ballia,2025-07,12120.6,True
+uttar pradesh,ballia,2025-08,11322.0,True
+uttar pradesh,ballia,2025-09,10574.0,True
+uttar pradesh,ballia,2025-10,7429.4,True
+uttar pradesh,balrampur,2025-01,1939.4,True
+uttar pradesh,balrampur,2025-02,1588.4,True
+uttar pradesh,balrampur,2025-03,1409.6000000000001,True
+uttar pradesh,balrampur,2025-04,3358.0,True
+uttar pradesh,balrampur,2025-05,10303.8,True
+uttar pradesh,balrampur,2025-06,6060.0,True
+uttar pradesh,balrampur,2025-07,4481.5,True
+uttar pradesh,balrampur,2025-08,3315.0,True
+uttar pradesh,balrampur,2025-09,2429.0,True
+uttar pradesh,balrampur,2025-10,2412.6,True
+uttar pradesh,banda,2025-01,2713.7,True
+uttar pradesh,banda,2025-02,1717.7000000000003,True
+uttar pradesh,banda,2025-03,1064.1999999999998,True
+uttar pradesh,banda,2025-04,7756.8,True
+uttar pradesh,banda,2025-05,9057.199999999999,True
+uttar pradesh,banda,2025-06,7090.1,True
+uttar pradesh,banda,2025-07,2778.2,True
+uttar pradesh,banda,2025-08,4499.8,True
+uttar pradesh,banda,2025-09,3169.36,True
+uttar pradesh,banda,2025-10,8219.07,True
+uttar pradesh,bara banki,2025-01,468.3,True
+uttar pradesh,bara banki,2025-02,450.0,True
+uttar pradesh,bara banki,2025-03,535.0,True
+uttar pradesh,bara banki,2025-04,887.9000000000001,True
+uttar pradesh,bara banki,2025-05,1507.4,True
+uttar pradesh,bara banki,2025-06,1482.2,True
+uttar pradesh,bara banki,2025-07,887.4000000000001,True
+uttar pradesh,bara banki,2025-08,440.0,True
+uttar pradesh,bara banki,2025-09,523.0999999999999,True
+uttar pradesh,bara banki,2025-10,500.0,True
+uttar pradesh,bareilly,2025-01,4710.7,True
+uttar pradesh,bareilly,2025-02,3606.6,True
+uttar pradesh,bareilly,2025-03,2051.0,True
+uttar pradesh,bareilly,2025-04,32370.7,True
+uttar pradesh,bareilly,2025-05,23790.3,True
+uttar pradesh,bareilly,2025-06,4189.099999999999,True
+uttar pradesh,bareilly,2025-07,2306.2,True
+uttar pradesh,bareilly,2025-08,2284.3500000000004,True
+uttar pradesh,bareilly,2025-09,2963.3500000000004,True
+uttar pradesh,bareilly,2025-10,2210.3,True
+uttar pradesh,basti,2025-01,17045.0,True
+uttar pradesh,basti,2025-02,14253.0,True
+uttar pradesh,basti,2025-03,9081.0,True
+uttar pradesh,basti,2025-04,13546.0,True
+uttar pradesh,basti,2025-05,20310.0,True
+uttar pradesh,basti,2025-06,15076.0,True
+uttar pradesh,basti,2025-07,12694.5,True
+uttar pradesh,basti,2025-08,9076.5,True
+uttar pradesh,basti,2025-09,6029.0,True
+uttar pradesh,basti,2025-10,4117.5,True
+uttar pradesh,bijnor,2025-01,547.0,True
+uttar pradesh,bijnor,2025-02,896.5,True
+uttar pradesh,bijnor,2025-03,556.5,True
+uttar pradesh,bijnor,2025-04,1591.0,True
+uttar pradesh,bijnor,2025-05,1586.0,True
+uttar pradesh,bijnor,2025-06,1242.0,True
+uttar pradesh,bijnor,2025-07,2289.0,True
+uttar pradesh,bijnor,2025-08,2132.0,True
+uttar pradesh,bijnor,2025-09,2620.0,True
+uttar pradesh,bijnor,2025-10,805.0,True
+uttar pradesh,budaun,2025-01,6945.5,True
+uttar pradesh,budaun,2025-02,4720.7,True
+uttar pradesh,budaun,2025-03,3652.9000000000005,True
+uttar pradesh,budaun,2025-04,139950.24,True
+uttar pradesh,budaun,2025-05,147917.8,True
+uttar pradesh,budaun,2025-06,41511.05,True
+uttar pradesh,budaun,2025-07,17738.7,True
+uttar pradesh,budaun,2025-08,14371.199999999999,True
+uttar pradesh,budaun,2025-09,9964.099999999999,True
+uttar pradesh,budaun,2025-10,8709.699999999999,True
+uttar pradesh,bulandshahr,2025-01,2224.1000000000004,True
+uttar pradesh,bulandshahr,2025-02,1951.7999999999997,True
+uttar pradesh,bulandshahr,2025-03,3816.0,True
+uttar pradesh,bulandshahr,2025-04,55273.2,True
+uttar pradesh,bulandshahr,2025-05,38411.9,True
+uttar pradesh,bulandshahr,2025-06,9003.2,True
+uttar pradesh,bulandshahr,2025-07,7099.599999999999,True
+uttar pradesh,bulandshahr,2025-08,5506.5,True
+uttar pradesh,bulandshahr,2025-09,3647.9,True
+uttar pradesh,bulandshahr,2025-10,2303.1,True
+uttar pradesh,chandauli,2025-01,689.5,True
+uttar pradesh,chandauli,2025-02,647.0,True
+uttar pradesh,chandauli,2025-03,3679.0,True
+uttar pradesh,chandauli,2025-04,7396.0,True
+uttar pradesh,chandauli,2025-05,4910.0,True
+uttar pradesh,chandauli,2025-06,1996.0,True
+uttar pradesh,chandauli,2025-07,1056.5,True
+uttar pradesh,chandauli,2025-08,712.5,True
+uttar pradesh,chandauli,2025-09,579.0,True
+uttar pradesh,chandauli,2025-10,503.0,True
+uttar pradesh,chitrakoot,2025-01,545.0,True
+uttar pradesh,chitrakoot,2025-02,754.0,True
+uttar pradesh,chitrakoot,2025-03,1086.0,True
+uttar pradesh,chitrakoot,2025-04,619.0,True
+uttar pradesh,chitrakoot,2025-05,515.0,True
+uttar pradesh,chitrakoot,2025-06,608.0,True
+uttar pradesh,chitrakoot,2025-07,373.0,True
+uttar pradesh,chitrakoot,2025-08,376.0,True
+uttar pradesh,chitrakoot,2025-09,399.0,True
+uttar pradesh,chitrakoot,2025-10,393.0,True
+uttar pradesh,deoria,2025-01,10395.0,True
+uttar pradesh,deoria,2025-02,560.0,True
+uttar pradesh,deoria,2025-06,509.5,True
+uttar pradesh,deoria,2025-08,310.0,True
+uttar pradesh,deoria,2025-10,400.0,True
+uttar pradesh,etah,2025-01,5199.5,True
+uttar pradesh,etah,2025-02,5585.0,True
+uttar pradesh,etah,2025-03,3157.3999999999996,True
+uttar pradesh,etah,2025-04,41507.9,True
+uttar pradesh,etah,2025-05,38429.3,True
+uttar pradesh,etah,2025-06,15849.3,True
+uttar pradesh,etah,2025-07,13392.2,True
+uttar pradesh,etah,2025-08,15290.300000000001,True
+uttar pradesh,etah,2025-09,14203.1,True
+uttar pradesh,etah,2025-10,10626.8,True
+uttar pradesh,etawah,2025-01,6926.0,True
+uttar pradesh,etawah,2025-02,6580.2,True
+uttar pradesh,etawah,2025-03,5078.7,True
+uttar pradesh,etawah,2025-04,48089.29,True
+uttar pradesh,etawah,2025-05,67642.15999999999,True
+uttar pradesh,etawah,2025-06,24307.01,True
+uttar pradesh,etawah,2025-07,8750.5,True
+uttar pradesh,etawah,2025-08,6490.0,True
+uttar pradesh,etawah,2025-09,7880.0,True
+uttar pradesh,etawah,2025-10,6950.4,True
+uttar pradesh,faizabad,2025-01,7822.4,True
+uttar pradesh,faizabad,2025-02,4931.9,True
+uttar pradesh,faizabad,2025-03,4489.0,True
+uttar pradesh,faizabad,2025-04,10120.9,True
+uttar pradesh,faizabad,2025-05,8108.9,True
+uttar pradesh,faizabad,2025-06,6214.0,True
+uttar pradesh,faizabad,2025-07,7750.5,True
+uttar pradesh,faizabad,2025-08,4610.0,True
+uttar pradesh,faizabad,2025-09,3261.0,True
+uttar pradesh,faizabad,2025-10,2117.0,True
+uttar pradesh,farrukhabad,2025-01,6218.5,True
+uttar pradesh,farrukhabad,2025-02,7025.5,True
+uttar pradesh,farrukhabad,2025-03,6571.0,True
+uttar pradesh,farrukhabad,2025-04,9374.6,True
+uttar pradesh,farrukhabad,2025-05,13952.6,True
+uttar pradesh,farrukhabad,2025-06,8992.5,True
+uttar pradesh,farrukhabad,2025-07,10472.0,True
+uttar pradesh,farrukhabad,2025-08,5378.5,True
+uttar pradesh,farrukhabad,2025-09,5424.5,True
+uttar pradesh,farrukhabad,2025-10,6358.5,True
+uttar pradesh,fatehpur,2025-01,16535.100000000002,True
+uttar pradesh,fatehpur,2025-02,9976.4,True
+uttar pradesh,fatehpur,2025-03,7485.599999999999,True
+uttar pradesh,fatehpur,2025-04,33672.6,True
+uttar pradesh,fatehpur,2025-05,46690.5,True
+uttar pradesh,fatehpur,2025-06,37011.1,True
+uttar pradesh,fatehpur,2025-07,27642.600000000002,True
+uttar pradesh,fatehpur,2025-08,22409.699999999997,True
+uttar pradesh,fatehpur,2025-09,21479.0,True
+uttar pradesh,fatehpur,2025-10,11170.900000000001,True
+uttar pradesh,firozabad,2025-01,4060.0,True
+uttar pradesh,firozabad,2025-02,4977.0,True
+uttar pradesh,firozabad,2025-03,4192.0,True
+uttar pradesh,firozabad,2025-04,13535.5,True
+uttar pradesh,firozabad,2025-05,8537.5,True
+uttar pradesh,firozabad,2025-06,2491.0,True
+uttar pradesh,firozabad,2025-07,2045.0,True
+uttar pradesh,firozabad,2025-08,3300.8,True
+uttar pradesh,firozabad,2025-09,6764.6,True
+uttar pradesh,firozabad,2025-10,4973.5,True
+uttar pradesh,gautam buddha nagar,2025-01,230.0,True
+uttar pradesh,gautam buddha nagar,2025-02,614.6,True
+uttar pradesh,gautam buddha nagar,2025-03,253.29999999999998,True
+uttar pradesh,gautam buddha nagar,2025-04,4729.7,True
+uttar pradesh,gautam buddha nagar,2025-05,5905.0,True
+uttar pradesh,gautam buddha nagar,2025-06,2854.0,True
+uttar pradesh,gautam buddha nagar,2025-07,2595.0,True
+uttar pradesh,gautam buddha nagar,2025-08,2150.0,True
+uttar pradesh,gautam buddha nagar,2025-09,3278.0,True
+uttar pradesh,gautam buddha nagar,2025-10,3305.0,True
+uttar pradesh,ghaziabad,2025-01,45619.5,True
+uttar pradesh,ghaziabad,2025-02,37165.0,True
+uttar pradesh,ghaziabad,2025-03,39108.5,True
+uttar pradesh,ghaziabad,2025-04,55586.5,True
+uttar pradesh,ghaziabad,2025-05,76776.3,True
+uttar pradesh,ghaziabad,2025-06,58836.0,True
+uttar pradesh,ghaziabad,2025-07,56789.0,True
+uttar pradesh,ghaziabad,2025-08,54621.0,True
+uttar pradesh,ghaziabad,2025-09,63913.0,True
+uttar pradesh,ghaziabad,2025-10,49707.0,True
+uttar pradesh,ghazipur,2025-01,1220.5,True
+uttar pradesh,ghazipur,2025-02,1330.0,True
+uttar pradesh,ghazipur,2025-03,1120.5,True
+uttar pradesh,ghazipur,2025-04,4440.0,True
+uttar pradesh,ghazipur,2025-05,2751.0,True
+uttar pradesh,ghazipur,2025-06,1829.7,True
+uttar pradesh,ghazipur,2025-07,1546.4,True
+uttar pradesh,ghazipur,2025-08,1360.1,True
+uttar pradesh,ghazipur,2025-09,1045.4,True
+uttar pradesh,ghazipur,2025-10,1683.0,True
+uttar pradesh,gonda,2025-01,41601.600000000006,True
+uttar pradesh,gonda,2025-02,35629.1,True
+uttar pradesh,gonda,2025-03,14935.199999999999,True
+uttar pradesh,gonda,2025-04,89035.0,True
+uttar pradesh,gonda,2025-05,65670.59999999999,True
+uttar pradesh,gonda,2025-06,52633.9,True
+uttar pradesh,gonda,2025-07,25490.699999999997,True
+uttar pradesh,gonda,2025-08,33591.100000000006,True
+uttar pradesh,gonda,2025-09,25406.399999999998,True
+uttar pradesh,gonda,2025-10,11014.3,True
+uttar pradesh,gorakhpur,2025-01,9722.800000000001,True
+uttar pradesh,gorakhpur,2025-02,10696.2,True
+uttar pradesh,gorakhpur,2025-03,9186.800000000001,True
+uttar pradesh,gorakhpur,2025-04,25522.399999999998,True
+uttar pradesh,gorakhpur,2025-05,47917.399999999994,True
+uttar pradesh,gorakhpur,2025-06,35184.5,True
+uttar pradesh,gorakhpur,2025-07,16500.8,True
+uttar pradesh,gorakhpur,2025-08,8855.8,True
+uttar pradesh,gorakhpur,2025-09,7168.900000000001,True
+uttar pradesh,gorakhpur,2025-10,5905.800000000001,True
+uttar pradesh,hamirpur,2025-01,2007.9,True
+uttar pradesh,hamirpur,2025-02,3441.3,True
+uttar pradesh,hamirpur,2025-03,3252.8999999999996,True
+uttar pradesh,hamirpur,2025-04,42059.1,True
+uttar pradesh,hamirpur,2025-05,17804.7,True
+uttar pradesh,hamirpur,2025-06,10332.3,True
+uttar pradesh,hamirpur,2025-07,6484.1,True
+uttar pradesh,hamirpur,2025-08,6953.800000000001,True
+uttar pradesh,hamirpur,2025-09,8791.8,True
+uttar pradesh,hamirpur,2025-10,7734.500000000001,True
+uttar pradesh,hardoi,2025-01,40912.399999999994,True
+uttar pradesh,hardoi,2025-02,37964.5,True
+uttar pradesh,hardoi,2025-03,35860.6,True
+uttar pradesh,hardoi,2025-04,112557.59999999999,True
+uttar pradesh,hardoi,2025-05,119340.0,True
+uttar pradesh,hardoi,2025-06,48364.7,True
+uttar pradesh,hardoi,2025-07,43845.5,True
+uttar pradesh,hardoi,2025-08,41392.5,True
+uttar pradesh,hardoi,2025-09,40765.0,True
+uttar pradesh,hardoi,2025-10,31541.4,True
+uttar pradesh,jalaun,2025-01,4239.7,True
+uttar pradesh,jalaun,2025-02,3532.6000000000004,True
+uttar pradesh,jalaun,2025-03,3964.0,True
+uttar pradesh,jalaun,2025-04,39872.3,True
+uttar pradesh,jalaun,2025-05,16016.2,True
+uttar pradesh,jalaun,2025-06,8688.9,True
+uttar pradesh,jalaun,2025-07,13305.7,True
+uttar pradesh,jalaun,2025-08,12476.099999999999,True
+uttar pradesh,jalaun,2025-09,12784.5,True
+uttar pradesh,jalaun,2025-10,11009.9,True
+uttar pradesh,jaunpur,2025-01,3350.9,True
+uttar pradesh,jaunpur,2025-02,3427.3,True
+uttar pradesh,jaunpur,2025-03,3806.0,True
+uttar pradesh,jaunpur,2025-04,6436.3,True
+uttar pradesh,jaunpur,2025-05,5546.3,True
+uttar pradesh,jaunpur,2025-06,3788.2,True
+uttar pradesh,jaunpur,2025-07,3727.1,True
+uttar pradesh,jaunpur,2025-08,3520.5,True
+uttar pradesh,jaunpur,2025-09,3717.3,True
+uttar pradesh,jaunpur,2025-10,3548.4,True
+uttar pradesh,jhansi,2025-01,2367.5,True
+uttar pradesh,jhansi,2025-02,1679.8,True
+uttar pradesh,jhansi,2025-03,1384.8,True
+uttar pradesh,jhansi,2025-04,22422.0,True
+uttar pradesh,jhansi,2025-05,12660.6,True
+uttar pradesh,jhansi,2025-06,9095.7,True
+uttar pradesh,jhansi,2025-07,6417.2,True
+uttar pradesh,jhansi,2025-08,7543.4,True
+uttar pradesh,jhansi,2025-09,4840.0,True
+uttar pradesh,jhansi,2025-10,4274.3,True
+uttar pradesh,jyotiba phule nagar,2025-01,2377.9,True
+uttar pradesh,jyotiba phule nagar,2025-02,1410.1,True
+uttar pradesh,jyotiba phule nagar,2025-03,2115.2,True
+uttar pradesh,jyotiba phule nagar,2025-04,2151.2,True
+uttar pradesh,jyotiba phule nagar,2025-05,4153.2,True
+uttar pradesh,jyotiba phule nagar,2025-06,2994.2,True
+uttar pradesh,jyotiba phule nagar,2025-07,1709.0,True
+uttar pradesh,jyotiba phule nagar,2025-08,1666.8,True
+uttar pradesh,jyotiba phule nagar,2025-09,1795.4,True
+uttar pradesh,jyotiba phule nagar,2025-10,988.0,True
+uttar pradesh,kannauj,2025-01,2355.5,True
+uttar pradesh,kannauj,2025-02,2400.0,True
+uttar pradesh,kannauj,2025-03,2361.0,True
+uttar pradesh,kannauj,2025-04,3794.0,True
+uttar pradesh,kannauj,2025-05,7492.7,True
+uttar pradesh,kannauj,2025-06,4643.0,True
+uttar pradesh,kannauj,2025-07,1923.0,True
+uttar pradesh,kannauj,2025-08,1664.5,True
+uttar pradesh,kannauj,2025-09,2213.0,True
+uttar pradesh,kannauj,2025-10,3565.0,True
+uttar pradesh,kanpur dehat,2025-01,1657.0,True
+uttar pradesh,kanpur dehat,2025-02,1540.5,True
+uttar pradesh,kanpur dehat,2025-03,1621.0,True
+uttar pradesh,kanpur dehat,2025-04,2033.0,True
+uttar pradesh,kanpur dehat,2025-05,14285.5,True
+uttar pradesh,kanpur dehat,2025-06,13489.9,True
+uttar pradesh,kanpur dehat,2025-07,11641.02,True
+uttar pradesh,kanpur dehat,2025-08,15148.41,True
+uttar pradesh,kanpur dehat,2025-09,48752.59999999999,True
+uttar pradesh,kanpur dehat,2025-10,12183.63,True
+uttar pradesh,kanpur nagar,2025-01,34932.9,True
+uttar pradesh,kanpur nagar,2025-02,34770.3,True
+uttar pradesh,kanpur nagar,2025-03,25571.5,True
+uttar pradesh,kanpur nagar,2025-04,63073.520000000004,True
+uttar pradesh,kanpur nagar,2025-05,69862.5,True
+uttar pradesh,kanpur nagar,2025-06,55135.1,True
+uttar pradesh,kanpur nagar,2025-07,56695.399999999994,True
+uttar pradesh,kanpur nagar,2025-08,50318.90000000001,True
+uttar pradesh,kanpur nagar,2025-09,53744.8,True
+uttar pradesh,kanpur nagar,2025-10,40234.299999999996,True
+uttar pradesh,kaushambi,2025-01,1383.0,True
+uttar pradesh,kaushambi,2025-02,1181.8,True
+uttar pradesh,kaushambi,2025-03,786.9,True
+uttar pradesh,kaushambi,2025-04,3323.8,True
+uttar pradesh,kaushambi,2025-05,7803.0,True
+uttar pradesh,kaushambi,2025-06,4208.2,True
+uttar pradesh,kaushambi,2025-07,2201.5,True
+uttar pradesh,kaushambi,2025-08,2802.5,True
+uttar pradesh,kaushambi,2025-09,2663.5,True
+uttar pradesh,kaushambi,2025-10,1942.0,True
+uttar pradesh,kheri,2025-01,11091.400000000001,True
+uttar pradesh,kheri,2025-02,8229.9,True
+uttar pradesh,kheri,2025-03,7548.6,True
+uttar pradesh,kheri,2025-04,132508.66,True
+uttar pradesh,kheri,2025-05,113589.39000000001,True
+uttar pradesh,kheri,2025-06,33570.2,True
+uttar pradesh,kheri,2025-07,16553.9,True
+uttar pradesh,kheri,2025-08,15807.22,True
+uttar pradesh,kheri,2025-09,15592.900000000001,True
+uttar pradesh,kheri,2025-10,7792.9,True
+uttar pradesh,kushinagar,2025-02,43.0,True
+uttar pradesh,kushinagar,2025-03,9.0,True
+uttar pradesh,kushinagar,2025-04,302.0,True
+uttar pradesh,kushinagar,2025-05,213.4,True
+uttar pradesh,kushinagar,2025-06,166.0,True
+uttar pradesh,kushinagar,2025-07,15.0,True
+uttar pradesh,kushinagar,2025-08,10.0,True
+uttar pradesh,kushinagar,2025-09,25.0,True
+uttar pradesh,lalitpur,2025-01,5968.1,True
+uttar pradesh,lalitpur,2025-02,12463.5,True
+uttar pradesh,lalitpur,2025-03,33608.7,True
+uttar pradesh,lalitpur,2025-04,87849.6,True
+uttar pradesh,lalitpur,2025-05,81788.3,True
+uttar pradesh,lalitpur,2025-06,32514.200000000004,True
+uttar pradesh,lalitpur,2025-07,7267.299999999999,True
+uttar pradesh,lalitpur,2025-08,7343.200000000001,True
+uttar pradesh,lalitpur,2025-09,8556.6,True
+uttar pradesh,lalitpur,2025-10,6408.0,True
+uttar pradesh,lucknow,2025-01,14005.0,True
+uttar pradesh,lucknow,2025-02,10581.0,True
+uttar pradesh,lucknow,2025-03,9656.4,True
+uttar pradesh,lucknow,2025-04,22589.0,True
+uttar pradesh,lucknow,2025-05,29901.9,True
+uttar pradesh,lucknow,2025-06,20206.600000000002,True
+uttar pradesh,lucknow,2025-07,18472.3,True
+uttar pradesh,lucknow,2025-08,17969.8,True
+uttar pradesh,lucknow,2025-09,16493.2,True
+uttar pradesh,lucknow,2025-10,13791.1,True
+uttar pradesh,mahamaya nagar,2025-01,3972.0,True
+uttar pradesh,mahamaya nagar,2025-02,3206.0,True
+uttar pradesh,mahamaya nagar,2025-03,3909.0,True
+uttar pradesh,mahamaya nagar,2025-04,31130.5,True
+uttar pradesh,mahamaya nagar,2025-05,17267.0,True
+uttar pradesh,mahamaya nagar,2025-06,14726.0,True
+uttar pradesh,mahamaya nagar,2025-07,6360.0,True
+uttar pradesh,mahamaya nagar,2025-08,4893.0,True
+uttar pradesh,mahamaya nagar,2025-09,6483.0,True
+uttar pradesh,mahamaya nagar,2025-10,4408.0,True
+uttar pradesh,mahoba,2025-01,1206.1,True
+uttar pradesh,mahoba,2025-02,1145.5,True
+uttar pradesh,mahoba,2025-03,2795.0,True
+uttar pradesh,mahoba,2025-04,17901.010000000002,True
+uttar pradesh,mahoba,2025-05,7778.0,True
+uttar pradesh,mahoba,2025-06,5413.5,True
+uttar pradesh,mahoba,2025-07,3535.3,True
+uttar pradesh,mahoba,2025-08,2366.5,True
+uttar pradesh,mahoba,2025-09,5345.6,True
+uttar pradesh,mahoba,2025-10,2309.4,True
+uttar pradesh,mahrajganj,2025-01,2148.1,True
+uttar pradesh,mahrajganj,2025-02,1164.5,True
+uttar pradesh,mahrajganj,2025-03,927.8000000000001,True
+uttar pradesh,mahrajganj,2025-04,5411.1,True
+uttar pradesh,mahrajganj,2025-05,6804.3,True
+uttar pradesh,mahrajganj,2025-06,2554.7000000000003,True
+uttar pradesh,mahrajganj,2025-07,2309.5,True
+uttar pradesh,mahrajganj,2025-08,2173.83,True
+uttar pradesh,mahrajganj,2025-09,2215.0,True
+uttar pradesh,mahrajganj,2025-10,2002.8000000000002,True
+uttar pradesh,mainpuri,2025-01,12987.4,True
+uttar pradesh,mainpuri,2025-02,8695.9,True
+uttar pradesh,mainpuri,2025-03,16433.0,True
+uttar pradesh,mainpuri,2025-04,31531.5,True
+uttar pradesh,mainpuri,2025-05,48146.7,True
+uttar pradesh,mainpuri,2025-06,24287.5,True
+uttar pradesh,mainpuri,2025-07,8077.0,True
+uttar pradesh,mainpuri,2025-08,9019.9,True
+uttar pradesh,mainpuri,2025-09,9184.5,True
+uttar pradesh,mainpuri,2025-10,8611.5,True
+uttar pradesh,mathura,2025-01,13010.0,True
+uttar pradesh,mathura,2025-02,9395.0,True
+uttar pradesh,mathura,2025-03,12411.0,True
+uttar pradesh,mathura,2025-04,85611.4,True
+uttar pradesh,mathura,2025-05,28780.0,True
+uttar pradesh,mathura,2025-06,18435.0,True
+uttar pradesh,mathura,2025-07,21750.0,True
+uttar pradesh,mathura,2025-08,18598.0,True
+uttar pradesh,mathura,2025-09,12535.0,True
+uttar pradesh,mathura,2025-10,9875.0,True
+uttar pradesh,mau,2025-01,33.0,True
+uttar pradesh,mau,2025-02,190.25,True
+uttar pradesh,mau,2025-03,45.2,True
+uttar pradesh,mau,2025-04,762.0,True
+uttar pradesh,mau,2025-05,1575.0,True
+uttar pradesh,mau,2025-06,285.0,True
+uttar pradesh,mau,2025-07,425.0,True
+uttar pradesh,mau,2025-08,740.0,True
+uttar pradesh,mau,2025-09,687.5,True
+uttar pradesh,mau,2025-10,205.0,True
+uttar pradesh,meerut,2025-01,1496.0,True
+uttar pradesh,meerut,2025-02,570.8,True
+uttar pradesh,meerut,2025-03,1265.0,True
+uttar pradesh,meerut,2025-04,1870.0,True
+uttar pradesh,meerut,2025-05,2071.9,True
+uttar pradesh,meerut,2025-06,937.5,True
+uttar pradesh,meerut,2025-07,843.0,True
+uttar pradesh,meerut,2025-08,1336.0,True
+uttar pradesh,meerut,2025-09,1431.0,True
+uttar pradesh,meerut,2025-10,2565.0,True
+uttar pradesh,mirzapur,2025-01,1885.0,True
+uttar pradesh,mirzapur,2025-02,1070.0,True
+uttar pradesh,mirzapur,2025-03,682.0,True
+uttar pradesh,mirzapur,2025-04,12965.700000000003,True
+uttar pradesh,mirzapur,2025-05,21203.47,True
+uttar pradesh,mirzapur,2025-06,6211.63,True
+uttar pradesh,mirzapur,2025-07,1530.0,True
+uttar pradesh,mirzapur,2025-08,1129.0,True
+uttar pradesh,mirzapur,2025-09,1950.0,True
+uttar pradesh,mirzapur,2025-10,1840.0,True
+uttar pradesh,moradabad,2025-01,4211.0,True
+uttar pradesh,moradabad,2025-02,2816.5,True
+uttar pradesh,moradabad,2025-03,3268.5,True
+uttar pradesh,moradabad,2025-04,34901.2,True
+uttar pradesh,moradabad,2025-05,27047.3,True
+uttar pradesh,moradabad,2025-06,9441.4,True
+uttar pradesh,moradabad,2025-07,6982.4,True
+uttar pradesh,moradabad,2025-08,4765.0,True
+uttar pradesh,moradabad,2025-09,5056.1,True
+uttar pradesh,moradabad,2025-10,3567.5,True
+uttar pradesh,muzaffarnagar,2025-01,7513.7,True
+uttar pradesh,muzaffarnagar,2025-02,4846.599999999999,True
+uttar pradesh,muzaffarnagar,2025-03,6904.999999999999,True
+uttar pradesh,muzaffarnagar,2025-04,19414.0,True
+uttar pradesh,muzaffarnagar,2025-05,13663.4,True
+uttar pradesh,muzaffarnagar,2025-06,7860.5999999999985,True
+uttar pradesh,muzaffarnagar,2025-07,3423.9,True
+uttar pradesh,muzaffarnagar,2025-08,2939.8,True
+uttar pradesh,muzaffarnagar,2025-09,2479.1000000000004,True
+uttar pradesh,muzaffarnagar,2025-10,1664.1000000000001,True
+uttar pradesh,pilibhit,2025-01,2389.6000000000004,True
+uttar pradesh,pilibhit,2025-02,2346.5,True
+uttar pradesh,pilibhit,2025-03,2681.0,True
+uttar pradesh,pilibhit,2025-04,119653.70000000001,True
+uttar pradesh,pilibhit,2025-05,25604.2,True
+uttar pradesh,pilibhit,2025-06,3987.7,True
+uttar pradesh,pilibhit,2025-07,2137.7,True
+uttar pradesh,pilibhit,2025-08,1849.8000000000002,True
+uttar pradesh,pilibhit,2025-09,3479.5,True
+uttar pradesh,pilibhit,2025-10,1506.7000000000003,True
+uttar pradesh,pratapgarh,2025-01,1480.0,True
+uttar pradesh,pratapgarh,2025-02,2330.0,True
+uttar pradesh,pratapgarh,2025-03,2691.0,True
+uttar pradesh,pratapgarh,2025-04,5353.0,True
+uttar pradesh,pratapgarh,2025-05,6005.0,True
+uttar pradesh,pratapgarh,2025-06,2675.0,True
+uttar pradesh,pratapgarh,2025-07,3455.0,True
+uttar pradesh,pratapgarh,2025-08,3020.0,True
+uttar pradesh,pratapgarh,2025-09,2505.0,True
+uttar pradesh,pratapgarh,2025-10,2150.0,True
+uttar pradesh,rae bareli,2025-01,12138.3,True
+uttar pradesh,rae bareli,2025-02,12262.5,True
+uttar pradesh,rae bareli,2025-03,9558.3,True
+uttar pradesh,rae bareli,2025-04,30023.2,True
+uttar pradesh,rae bareli,2025-05,36081.0,True
+uttar pradesh,rae bareli,2025-06,21747.4,True
+uttar pradesh,rae bareli,2025-07,17687.0,True
+uttar pradesh,rae bareli,2025-08,21216.5,True
+uttar pradesh,rae bareli,2025-09,22535.0,True
+uttar pradesh,rae bareli,2025-10,18514.5,True
+uttar pradesh,rampur,2025-01,1458.0,True
+uttar pradesh,rampur,2025-02,1296.5,True
+uttar pradesh,rampur,2025-03,1504.0,True
+uttar pradesh,rampur,2025-04,20539.5,True
+uttar pradesh,rampur,2025-05,11365.0,True
+uttar pradesh,rampur,2025-06,12761.5,True
+uttar pradesh,rampur,2025-07,4182.5,True
+uttar pradesh,rampur,2025-08,2619.0,True
+uttar pradesh,rampur,2025-09,2911.0,True
+uttar pradesh,rampur,2025-10,2519.5,True
+uttar pradesh,saharanpur,2025-01,6516.0,True
+uttar pradesh,saharanpur,2025-02,7195.0,True
+uttar pradesh,saharanpur,2025-03,6837.0,True
+uttar pradesh,saharanpur,2025-04,15286.0,True
+uttar pradesh,saharanpur,2025-05,32215.0,True
+uttar pradesh,saharanpur,2025-06,13900.0,True
+uttar pradesh,saharanpur,2025-07,11605.0,True
+uttar pradesh,saharanpur,2025-08,9010.0,True
+uttar pradesh,saharanpur,2025-09,9045.0,True
+uttar pradesh,saharanpur,2025-10,9425.0,True
+uttar pradesh,sant kabir nagar,2025-02,4400.0,True
+uttar pradesh,sant kabir nagar,2025-03,3600.0,True
+uttar pradesh,sant kabir nagar,2025-04,410.0,True
+uttar pradesh,sant kabir nagar,2025-05,3890.0,True
+uttar pradesh,sant kabir nagar,2025-06,550.0,True
+uttar pradesh,sant kabir nagar,2025-07,590.0,True
+uttar pradesh,sant kabir nagar,2025-08,630.0,True
+uttar pradesh,sant kabir nagar,2025-09,720.0,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-01,136.07,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-02,89.0,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-03,67.5,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-04,521.5,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-05,641.0,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-06,197.0,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-07,112.39999999999999,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-08,76.69999999999999,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-09,78.1,True
+uttar pradesh,sant ravidas nagar (bhadohi),2025-10,65.0,True
+uttar pradesh,shahjahanpur,2025-01,16687.579999999998,True
+uttar pradesh,shahjahanpur,2025-02,6816.34,True
+uttar pradesh,shahjahanpur,2025-03,4976.39,True
+uttar pradesh,shahjahanpur,2025-04,240847.81999999998,True
+uttar pradesh,shahjahanpur,2025-05,78848.63,True
+uttar pradesh,shahjahanpur,2025-06,26696.58,True
+uttar pradesh,shahjahanpur,2025-07,24109.68,True
+uttar pradesh,shahjahanpur,2025-08,14996.990000000002,True
+uttar pradesh,shahjahanpur,2025-09,12113.880000000001,True
+uttar pradesh,shahjahanpur,2025-10,8593.52,True
+uttar pradesh,shrawasti,2025-01,867.0,True
+uttar pradesh,shrawasti,2025-02,252.5,True
+uttar pradesh,shrawasti,2025-03,511.5,True
+uttar pradesh,shrawasti,2025-04,11408.0,True
+uttar pradesh,shrawasti,2025-05,19650.0,True
+uttar pradesh,shrawasti,2025-06,7300.0,True
+uttar pradesh,shrawasti,2025-07,1457.0,True
+uttar pradesh,shrawasti,2025-08,1090.5,True
+uttar pradesh,shrawasti,2025-09,1605.0,True
+uttar pradesh,shrawasti,2025-10,2195.5,True
+uttar pradesh,siddharthnagar,2025-01,4896.000000000001,True
+uttar pradesh,siddharthnagar,2025-02,7613.4,True
+uttar pradesh,siddharthnagar,2025-03,490.4,True
+uttar pradesh,siddharthnagar,2025-04,4830.5,True
+uttar pradesh,siddharthnagar,2025-05,6019.1,True
+uttar pradesh,siddharthnagar,2025-06,1854.5000000000002,True
+uttar pradesh,siddharthnagar,2025-07,1730.7,True
+uttar pradesh,siddharthnagar,2025-08,2318.0,True
+uttar pradesh,siddharthnagar,2025-09,2208.4,True
+uttar pradesh,siddharthnagar,2025-10,1122.8000000000002,True
+uttar pradesh,sitapur,2025-01,5784.3,True
+uttar pradesh,sitapur,2025-02,5684.6,True
+uttar pradesh,sitapur,2025-03,5154.799999999999,True
+uttar pradesh,sitapur,2025-04,30031.3,True
+uttar pradesh,sitapur,2025-05,46204.5,True
+uttar pradesh,sitapur,2025-06,19599.9,True
+uttar pradesh,sitapur,2025-07,14259.6,True
+uttar pradesh,sitapur,2025-08,15141.3,True
+uttar pradesh,sitapur,2025-09,16356.6,True
+uttar pradesh,sitapur,2025-10,7734.9,True
+uttar pradesh,sonbhadra,2025-01,920.3,True
+uttar pradesh,sonbhadra,2025-02,718.6,True
+uttar pradesh,sonbhadra,2025-03,1273.9,True
+uttar pradesh,sonbhadra,2025-04,19456.36,True
+uttar pradesh,sonbhadra,2025-05,6219.299999999999,True
+uttar pradesh,sonbhadra,2025-06,1892.4,True
+uttar pradesh,sonbhadra,2025-07,675.5,True
+uttar pradesh,sonbhadra,2025-08,492.35,True
+uttar pradesh,sonbhadra,2025-09,2059.6,True
+uttar pradesh,sonbhadra,2025-10,2145.6,True
+uttar pradesh,sultanpur,2025-01,7580.0,True
+uttar pradesh,sultanpur,2025-02,14170.0,True
+uttar pradesh,sultanpur,2025-03,6288.0,True
+uttar pradesh,sultanpur,2025-04,755.0,True
+uttar pradesh,sultanpur,2025-05,30.0,True
+uttar pradesh,sultanpur,2025-06,40.0,True
+uttar pradesh,sultanpur,2025-07,1979.0,True
+uttar pradesh,sultanpur,2025-08,110.0,True
+uttar pradesh,sultanpur,2025-09,360.0,True
+uttar pradesh,sultanpur,2025-10,103.0,True
+uttar pradesh,unnao,2025-01,4069.0,True
+uttar pradesh,unnao,2025-02,3830.2000000000007,True
+uttar pradesh,unnao,2025-03,6250.4,True
+uttar pradesh,unnao,2025-04,22062.399999999994,True
+uttar pradesh,unnao,2025-05,22201.5,True
+uttar pradesh,unnao,2025-06,17529.0,True
+uttar pradesh,unnao,2025-07,20075.6,True
+uttar pradesh,unnao,2025-08,11796.7,True
+uttar pradesh,unnao,2025-09,13041.5,True
+uttar pradesh,unnao,2025-10,11711.2,True
+uttar pradesh,varanasi,2025-01,8720.0,True
+uttar pradesh,varanasi,2025-02,7859.5,True
+uttar pradesh,varanasi,2025-03,7821.2,True
+uttar pradesh,varanasi,2025-04,8870.0,True
+uttar pradesh,varanasi,2025-05,17045.0,True
+uttar pradesh,varanasi,2025-06,12213.0,True
+uttar pradesh,varanasi,2025-07,14752.0,True
+uttar pradesh,varanasi,2025-08,12868.0,True
+uttar pradesh,varanasi,2025-09,11747.5,True
+uttar pradesh,varanasi,2025-10,10714.0,True
+uttarakhand,champawat,2025-04,82.0,True
+uttarakhand,champawat,2025-05,17.0,True
+uttarakhand,champawat,2025-06,14.0,True
+uttarakhand,dehradun,2025-04,66.10000000000001,True
+uttarakhand,dehradun,2025-05,98.6,True
+uttarakhand,hardwar,2025-01,59.2,True
+uttarakhand,hardwar,2025-02,43.9,True
+uttarakhand,hardwar,2025-03,103.6,True
+uttarakhand,hardwar,2025-04,358.4,True
+uttarakhand,hardwar,2025-05,607.0,True
+uttarakhand,hardwar,2025-06,234.70000000000002,True
+uttarakhand,hardwar,2025-07,136.1,True
+uttarakhand,hardwar,2025-08,128.89999999999998,True
+uttarakhand,hardwar,2025-09,59.599999999999994,True
+uttarakhand,hardwar,2025-10,30.5,True
+uttarakhand,udham singh nagar,2025-02,6646.0,True
+uttarakhand,udham singh nagar,2025-03,123.0,True
+uttarakhand,udham singh nagar,2025-04,38699.35,True
+uttarakhand,udham singh nagar,2025-05,75334.54999999999,True
+uttarakhand,udham singh nagar,2025-06,5230.379999999999,True
+uttarakhand,udham singh nagar,2025-07,328.3,True
+uttarakhand,udham singh nagar,2025-08,114.0,True
+uttarakhand,udham singh nagar,2025-09,157.8,True
+west bengal,bankura,2025-01,8.98,True
+west bengal,bankura,2025-02,7.9,True
+west bengal,bankura,2025-03,8.809999999999999,True
+west bengal,bankura,2025-04,8.64,True
+west bengal,bankura,2025-05,9.149999999999999,True
+west bengal,bankura,2025-06,8.77,True
+west bengal,bankura,2025-07,9.309999999999999,True
+west bengal,bankura,2025-08,9.16,True
+west bengal,bankura,2025-09,9.35,True
+west bengal,bankura,2025-10,24.560000000000006,True
+west bengal,barddhaman,2025-01,268.19999999999993,True
+west bengal,barddhaman,2025-02,240.2,True
+west bengal,barddhaman,2025-03,254.5,True
+west bengal,barddhaman,2025-04,260.3,True
+west bengal,barddhaman,2025-05,243.8,True
+west bengal,barddhaman,2025-06,227.59999999999997,True
+west bengal,barddhaman,2025-07,252.09999999999997,True
+west bengal,barddhaman,2025-08,310.79999999999995,True
+west bengal,barddhaman,2025-09,228.8,True
+west bengal,barddhaman,2025-10,220.5,True
+west bengal,birbhum,2025-01,1362.0,True
+west bengal,birbhum,2025-02,1064.0,True
+west bengal,birbhum,2025-03,1138.0,True
+west bengal,birbhum,2025-04,1159.0,True
+west bengal,birbhum,2025-05,1043.0,True
+west bengal,birbhum,2025-06,993.0,True
+west bengal,birbhum,2025-07,1033.0,True
+west bengal,birbhum,2025-08,1110.0,True
+west bengal,birbhum,2025-09,991.0,True
+west bengal,birbhum,2025-10,787.0,True
+west bengal,maldah,2025-09,70.0,True
+west bengal,murshidabad,2025-01,43.5,True
+west bengal,murshidabad,2025-02,39.0,True
+west bengal,murshidabad,2025-03,43.5,True
+west bengal,murshidabad,2025-04,56.0,True
+west bengal,murshidabad,2025-05,58.0,True
+west bengal,murshidabad,2025-06,8.0,True
+west bengal,murshidabad,2025-07,140.8,True
+west bengal,murshidabad,2025-08,200.20000000000002,True
+west bengal,murshidabad,2025-09,174.10000000000002,True
+west bengal,murshidabad,2025-10,183.7,True
+west bengal,nadia,2025-01,102.0,True
+west bengal,nadia,2025-02,102.0,True
+west bengal,nadia,2025-03,91.0,True
+west bengal,nadia,2025-04,94.5,True
+west bengal,nadia,2025-05,91.5,True
+west bengal,nadia,2025-06,102.5,True
+west bengal,nadia,2025-07,101.0,True
+west bengal,nadia,2025-08,103.0,True
+west bengal,nadia,2025-09,94.31,True
+west bengal,nadia,2025-10,78.8,True
+west bengal,uttar dinajpur,2025-01,129.0,True
+west bengal,uttar dinajpur,2025-02,213.0,True
+west bengal,uttar dinajpur,2025-03,159.0,True
+west bengal,uttar dinajpur,2025-04,376.0,True
+west bengal,uttar dinajpur,2025-05,331.5,True
+west bengal,uttar dinajpur,2025-06,157.5,True
+west bengal,uttar dinajpur,2025-07,139.0,True
+west bengal,uttar dinajpur,2025-08,70.0,True
+west bengal,uttar dinajpur,2025-09,71.5,True
+west bengal,uttar dinajpur,2025-10,77.5,True

@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.DS_Store
+# Additional Python environment files
+venv/
+env/
+*.pyo
+.pytest_cache/
+
+# Environment variables and credentials
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+
+# Raw datasets (stored in AWS S3)
+data/raw/
+
+# Generated Parquet files
+data/processed/*.parquet
+
+# Editor and operating system files
+.vscode/
+.idea/
+Thumbs.db
+
+# Logs
+*.log
