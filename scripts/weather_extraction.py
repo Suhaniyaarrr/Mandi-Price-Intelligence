@@ -1,4 +1,3 @@
-
 import requests
 import pandas as pd
 import time
@@ -106,6 +105,9 @@ if all_weather:
     final_df = pd.concat(all_weather, ignore_index=True)
 
     output_path = "data/raw/weather_tamil_nadu_2025.csv"
+
+    import os
+    os.makedirs("data/raw", exist_ok=True)
 
     final_df.to_csv(output_path, index=False)
 
