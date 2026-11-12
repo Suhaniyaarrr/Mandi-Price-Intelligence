@@ -30,3 +30,7 @@ Thumbs.db
 
 # Logs
 *.log
+# Large data files
+*.csv
+*.json
+*.parquet
