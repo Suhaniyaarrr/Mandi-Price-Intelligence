@@ -1,290 +1,250 @@
-\# Mandi Price Intelligence – Project Architecture
+# Mandi Price Intelligence – Project Architecture
 
+## 1. Architecture Overview
 
+Mandi Price Intelligence follows a Big Data engineering pipeline that collects agricultural mandi prices, wheat arrivals, and historical weather information from multiple external sources.
 
-\## 1. Architecture Overview
+The datasets are loaded into Databricks, processed using Apache Spark (PySpark), cleaned, standardized, aggregated, and integrated into a unified monthly dataset.
 
+The processed datasets are stored in a Databricks Unity Catalog Volume in Parquet format. AWS S3 is configured as the project's cloud object storage.
 
+The pipeline supports agricultural market analysis and provides a foundation for future dashboard development and predictive modelling.
 
-The project follows a data engineering pipeline that collects agricultural market prices, crop arrivals, and weather information from multiple external sources. The collected data is stored locally and in AWS S3, processed using Python and Pandas, and transformed into monthly datasets for further analysis.
-
-
-
-\## 2. Architecture Diagram
-
-
+## 2. Architecture Diagram
 
 ```mermaid
-
 flowchart TD
+    A["Hugging Face / AGMARKNET<br/>Mandi Daily Prices"]
+    B["Open-Meteo API<br/>Historical Weather"]
+    C["CEDA Agri-Market API<br/>Wheat Arrivals"]
 
-&#x20;   A\[Hugging Face / AGMARKNET<br/>Mandi Daily Prices]
+    A --> D["Data Collection"]
+    B --> D
+    C --> D
 
-&#x20;   B\[Open-Meteo<br/>Historical Weather]
+    D --> E["Raw Data Storage<br/>Databricks Unity Catalog Volume"]
 
-&#x20;   C\[CEDA Agri-Market<br/>Wheat Arrivals]
+    E --> F["Databricks<br/>01_Data_Ingestion_and_Exploration"]
 
+    F --> G["Data Exploration and Validation"]
+    G --> H["Data Cleaning and Standardization<br/>PySpark"]
+    H --> I["Monthly Aggregation<br/>State + District + Month"]
 
+    I --> J["Data Integration<br/>Full Outer Join"]
+    J --> K["Source Presence Flags<br/>and Match Type"]
+    K --> L["Integrated Dataset Validation"]
 
-&#x20;   A --> D\[Python Data Extraction]
+    L --> M["Processed Parquet Datasets<br/>Unity Catalog Volume"]
 
-&#x20;   B --> D
+    M --> N["Databricks<br/>02_Data_Analysis_and_Insights"]
+    N --> O["Exploratory Analysis"]
+    O --> P["Visualizations and Dashboard"]
+    O --> Q["Future Predictive Modelling"]
 
-&#x20;   C --> D
-
-
-
-&#x20;   D --> E\[Raw Data Storage<br/>data/raw/]
-
-&#x20;   E --> F\[AWS S3 Raw Storage]
-
-
-
-&#x20;   E --> G\[Python Data Integration<br/>Pandas]
-
-
-
-&#x20;   G --> H\[Data Cleaning<br/>Standardization]
-
-&#x20;   H --> I\[Monthly Aggregation]
-
-&#x20;   I --> J\[Full Outer Join<br/>State + District + Month]
-
-&#x20;   J --> K\[Source Presence Flags<br/>and Match Type]
-
-
-
-&#x20;   K --> L\[Processed CSV and Parquet Files]
-
-&#x20;   L --> M\[AWS S3 Processed Storage]
-
-
-
-&#x20;   M --> N\[Further Analysis]
-
-&#x20;   N --> O\[Visualization and Dashboard]
-
-&#x20;   N --> P\[Future Predictive Modelling]
-
+    M -.-> R["AWS S3<br/>Configured Cloud Storage"]
 ```
 
+## 3. External Data Sources
 
+The project integrates three primary datasets:
 
-\## 3. External Data Sources
+1. **Mandi Daily Prices:** Historical agricultural market prices obtained from a Hugging Face dataset sourced from AGMARKNET.
+2. **Weather Data:** Historical weather observations collected using the Open-Meteo Historical Weather API for five districts in Tamil Nadu.
+3. **Wheat Arrivals:** Monthly wheat arrival quantities obtained through the CEDA Agri-Market API.
 
+The datasets have different geographical and temporal coverage, which is considered during integration.
 
+## 4. Data Collection Layer
 
-The project integrates three agricultural and environmental datasets:
+Data is collected from the external sources using dataset downloads and API-based extraction.
 
+The collected datasets include:
 
+| Dataset | Raw Records | Coverage |
+|---|---:|---|
+| Mandi Daily Prices | 5,827,604 | January–December 2025 |
+| Wheat Arrivals | 2,370 | January–October 2025 |
+| Historical Weather | 1,825 | January–December 2025 |
 
-1\. \*\*Mandi Daily Prices:\*\* Historical agricultural market prices obtained from a Hugging Face dataset sourced from AGMARKNET.
+The raw datasets are loaded into the Databricks processing environment for further processing.
 
-2\. \*\*Weather Data:\*\* Historical weather observations collected using the Open-Meteo API.
+## 5. Raw Data Storage Layer
 
-3\. \*\*Crop Arrivals:\*\* Monthly wheat arrival quantities obtained from the CEDA Agri-Market API.
+Raw datasets are maintained in a Databricks Unity Catalog Volume.
 
+**Volume path:**
 
+`/Volumes/workspace/default/mandi_project_data/`
 
-\## 4. Data Extraction Layer
+The storage area maintains the original datasets used by the processing notebooks.
 
+AWS S3 is also configured for cloud object storage.
 
-
-Python scripts are used to retrieve and organize data from the external sources.
-
-
-
-The extracted datasets are initially stored in the `data/raw/` directory.
-
-
-
-\## 5. Raw Data Storage Layer
-
-
-
-Raw datasets are stored locally and uploaded to an AWS S3 bucket.
-
-
-
-\*\*AWS S3 bucket:\*\*
-
-
+**AWS S3 bucket:**
 
 `mandi-price-intelligence-2026-584310482678-ap-south-1-an`
 
+**Region:** `ap-south-1` (Asia Pacific – Mumbai)
 
+## 6. Data Processing and Integration Layer
 
-Storage organization:
+Data processing is performed using **Databricks and Apache Spark (PySpark)**.
 
+The main processing operations include:
 
+- Loading raw Parquet, JSON, and CSV datasets.
+- Exploring schemas, record counts, and data coverage.
+- Checking missing values and duplicate records.
+- Standardizing State, District, and Commodity names.
+- Filtering mandi records for Wheat.
+- Aggregating mandi prices by State, District, and Month.
+- Aggregating wheat arrivals by State, District, and Month.
+- Aggregating weather observations by State, District, and Month.
+- Integrating the aggregated datasets using a full outer join.
+- Creating source-presence indicators and a `Match_Type` column.
+- Validating the integrated dataset.
 
-\- `raw/` – Original extracted datasets.
+The integration uses the following common keys:
 
-\- `processed/` – Cleaned and aggregated datasets.
+`State`, `District`, and `Month`.
 
+The full outer join preserves available records from all three datasets.
 
+## 7. Processed Data Storage Layer
 
-AWS S3 provides centralized cloud-based object storage for the project.
+The processed datasets are saved in Parquet format in the Databricks Unity Catalog Volume.
 
+**Processed data path:**
 
+`/Volumes/workspace/default/mandi_project_data/processed/`
 
-\## 6. Data Processing and Integration Layer
+The four primary outputs are:
 
+| Dataset | Records | Description |
+|---|---:|---|
+| `monthly_mandi_prices` | 2,995 | Monthly wheat price statistics |
+| `monthly_wheat_arrivals` | 2,370 | Monthly wheat arrival quantities |
+| `monthly_weather` | 60 | Monthly district-level weather statistics |
+| `monthly_combined_intelligence` | 3,798 | Integrated dataset containing available source records |
 
+Parquet is used as a columnar storage format suitable for analytical processing.
 
-Python and Pandas are used for data processing.
+## 8. Data Integration Results
 
+The combined dataset contains 3,798 records.
 
+| Match Type | Records |
+|---|---:|
+| Mandi + Arrivals | 1,627 |
+| Mandi Only | 1,368 |
+| Arrivals Only | 743 |
+| Weather Only | 60 |
+| All Three Sources | 0 |
+| **Total** | **3,798** |
 
-The major operations include:
+The integrated dataset contains source-presence indicators:
 
+- `Mandi_Present`
+- `Arrivals_Present`
+- `Weather_Present`
 
+It also contains `Match_Type`, which identifies the source combination contributing to each record.
 
-\- Standardizing State and District names.
+Duplicate State-District-Month keys: **0**.
 
-\- Filtering mandi records for wheat.
+## 9. Cloud Storage Layer
 
-\- Aggregating mandi prices by State, District, and Month.
+The project uses two storage environments:
 
-\- Aggregating weather observations by district and month.
+**Databricks Unity Catalog Volume**
 
-\- Aggregating wheat arrivals by State, District, and Month.
+Used to maintain the raw datasets and processed Parquet outputs used by the Databricks notebooks.
 
-\- Combining datasets using a full outer join.
+**AWS S3**
 
-\- Creating source-presence indicators and a `match\_type` column.
+Configured as cloud object storage for the project.
 
-
-
-The integration uses State, District, and Month as common keys.
-
-
-
-\## 7. Processed Data Storage Layer
-
-
-
-The processed datasets are stored in both CSV and Parquet formats.
-
-
-
-The main outputs are:
-
-
-
-\- `monthly\_mandi\_wheat\_prices`
-
-\- `monthly\_weather`
-
-\- `monthly\_wheat\_arrivals`
-
-\- `monthly\_combined\_intelligence`
-
-
-
-Parquet is used as a columnar storage format for efficient analytical processing, while CSV provides convenient access and inspection.
-
-
-
-\## 8. Cloud Storage Layer
-
-
-
-All raw and processed datasets are uploaded to AWS S3.
-
-
-
-The cloud storage structure is:
-
-
+The intended logical storage organization is:
 
 ```text
-
-AWS S3 Bucket
-
+mandi-price-intelligence/
 │
-
 ├── raw/
-
 │   ├── Mandi price data
-
 │   ├── Weather data
-
-│   └── Crop arrivals data
-
+│   └── Wheat arrivals data
 │
-
 └── processed/
-
-&#x20;   ├── Monthly mandi prices
-
-&#x20;   ├── Monthly weather
-
-&#x20;   ├── Monthly wheat arrivals
-
-&#x20;   └── Combined intelligence
-
+    ├── monthly_mandi_prices
+    ├── monthly_wheat_arrivals
+    ├── monthly_weather
+    └── monthly_combined_intelligence
 ```
 
+AWS credentials and secret access keys must not be committed to GitHub.
 
+## 10. Downstream Usage
 
-\## 9. Downstream Usage
+The processed datasets support:
 
+- Monthly wheat price trend analysis.
+- Wheat arrival pattern analysis.
+- State-level and district-level price comparisons.
+- District-level price volatility analysis.
+- Exploratory analysis of relationships between prices and arrivals.
+- Future agricultural market dashboards.
+- Future predictive modelling.
 
+Weather-based market analysis requires improved geographical matching between the weather and agricultural datasets.
 
-The processed datasets can support:
+## 11. Data Integration Limitations
 
+The three datasets have different geographical coverage.
 
+The weather dataset covers five districts in Tamil Nadu, while the available wheat arrivals data does not contain matching Tamil Nadu wheat district records.
 
-\- Agricultural price trend analysis.
+Consequently, there are no records matching all three sources simultaneously.
 
-\- Wheat arrival and market activity analysis.
+The full outer join preserves the available records without forcing incorrect geographical matches.
 
-\- Weather and agricultural market analysis where geographic coverage overlaps.
+Additional limitations include:
 
-\- Future dashboard development.
+- Wheat arrivals data is available only from January to October 2025.
+- The unit of the arrival quantity field has not been confirmed.
+- Weather coverage is limited to five Tamil Nadu districts.
+- Weather records do not currently match the agricultural datasets at the State-District-Month level.
 
-\- Future predictive modelling.
+## 12. Databricks Notebook Architecture
 
+The primary processing workflow is organized into Databricks notebooks.
 
+| Notebook | Responsibility |
+|---|---|
+| `01_Data_Ingestion_and_Exploration` | Data loading, exploration, cleaning, standardization, aggregation, integration, and validation |
+| `02_Data_Analysis_and_Insights` | Exploratory data analysis and agricultural market insights |
+| `03_Visualizations_and_Dashboard` | Planned visualization and dashboard development |
 
-\## 10. Data Integration Limitation
+The first two notebooks form the current processing and analysis workflow.
 
-
-
-The three datasets have different geographic coverage. The weather dataset covers five districts in Tamil Nadu, while the wheat arrivals dataset does not provide matching Tamil Nadu wheat districts in the available data.
-
-
-
-Therefore, the current integration does not contain records matching all three sources simultaneously.
-
-
-
-A full outer join preserves records from each source instead of forcing incorrect geographic matches.
-
-
-
-\## 11. Technology Stack
-
-
+## 13. Technology Stack
 
 | Component | Technology |
-
 |---|---|
-
-| Programming | Python |
-
-| Data Processing | Pandas |
-
-| Data Formats | CSV, Parquet |
-
-| Extraction | APIs and dataset downloads |
-
-| Cloud Storage | AWS S3 |
-
-| Cloud CLI | AWS CLI |
-
-| Development Environment | Python Virtual Environment |
-
+| Programming Language | Python |
+| Big Data Processing | Apache Spark (PySpark) |
+| Development Environment | Databricks |
+| Data Extraction | APIs and dataset downloads |
+| Data Formats | CSV, JSON, Parquet |
+| Databricks Storage | Unity Catalog Volumes |
+| Cloud Object Storage | AWS S3 |
 | Version Control | Git and GitHub |
 
+## 14. Architecture Summary
+
+The Mandi Price Intelligence architecture follows a multi-source data engineering approach.
+
+External datasets are collected and loaded into Databricks, where PySpark performs data cleaning, standardization, aggregation, integration, and validation.
+
+The resulting datasets are stored in a Unity Catalog Volume and used for exploratory analysis and future visualization development.
+
+The architecture provides a foundation for building a scalable agricultural data pipeline that can be extended with additional datasets, improved geographical matching, automated processing, and predictive analytics.
