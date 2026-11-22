@@ -248,3 +248,28 @@ These are exploratory findings and do not establish causal relationships. The un
 ## 14. Project Goal
 
 The ultimate goal of Mandi Price Intelligence is to create a structured and scalable agricultural data pipeline that brings together market prices, crop arrivals, and weather information to support data-driven agricultural insights.
+
+## 15. Interactive Power BI Dashboard
+
+An interactive 4-page **Power BI** dashboard (`Big Data Project.pbix`) was built on top of the processed gold-layer datasets to visualize wholesale wheat pricing, market arrival volumes, and seasonal climate patterns across 2025.
+
+### Dashboard Pages
+1. **Executive Overview:** National KPI summary, State-level dropdown filtering, Monthly Arrivals vs. Modal Price combo chart, and State-wise Average Modal Price comparison.
+2. **Price Analysis:** Tracks 189K+ price quotes, national modal/min/max price bands (₹1.60K–₹7.61K/Qtl), and Top 10 Highest-Priced Wheat Districts.
+3. **Arrivals & Supply:** Monitors 30.80M total arrival units across 14 reporting states and 288 districts, highlighting the April 2025 harvest surge and Top 10 Wheat-Supplying States.
+4. **Weather Impact:** Analyzes seasonal temperature bands (Max, Mean, Min °C) and monthly Temperature vs. Humidity & Rainfall correlations.
+
+### Dashboard Previews
+
+| Executive Overview | Price Analysis |
+| :---: | :---: |
+| ![Executive Overview](Executive%20Overview%20SS.jpg) | ![Price Analysis](Price%20Analysis%20SS.jpg) |
+
+| Arrivals & Supply | Weather Impact |
+| :---: | :---: |
+| ![Arrivals & Supply](Arrivals%20and%20Supply%20SS.jpg) | ![Weather Impact](Weather%20Impact%20SS.jpg) |
+
+### How to Open & Explore Locally
+1. Download **`Big Data Project.pbix`** from the root of this repository.
+2. Open the file in **Microsoft Power BI Desktop** (Windows).
+3. Use the top **Page Navigator** buttons or **State / District** dropdown slicers to filter across views.
